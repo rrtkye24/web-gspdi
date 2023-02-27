@@ -1,0 +1,199 @@
+
+.wrapper {
+  display: grid;
+  grid-template-columns: minmax(300px, 1fr);
+  grid-gap: 2rem;
+  /* justify-content: center; */
+}
+.body{
+  /* margin: 2rem; */
+}
+
+.container {
+  overflow: hidden;
+  box-shadow: 0px 2px 8px 0px gray;
+  background-color: white;
+  text-align: center;
+  border-radius: 1rem;
+  position: relative;
+}
+
+.banner {
+  position: absolute;
+  background-color: black;
+  /* background-image: url(http://cdn.megawastu.com/vendors/image-1.4.1/image.php/http://cdn.megawastu.com/sites/sewakamera.com/images/a37f11c939d85b7f0937ed8fc435de1c.jpg?width=240&image=http://cdn.megawastu.com/sites/sewakamera.com/images/a37f11c939d85b7f0937ed8fc435de1c.jpg); */
+  height: 10rem;
+  width: 100%;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.profile {
+  width:8rem;
+  clip-path: circle(60px);
+  margin-top: 4.5rem;
+  
+  /* margin-left: 50px; */
+  
+}
+
+.nama{
+  font-size: 45px;
+  font-weight: bold;
+  padding: 15px; 
+  text-align: center;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+
+.description {
+  padding: 5px;
+  font-size: 20px;
+  color: red;
+}
+
+
+
+
+
+
+@media screen and (min-width: 500px) {
+  .wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .hymne {
+    width: 500px;
+    height: 500px;
+  }
+}
+
+
+
+@media screen and (min-width: 760px) {
+  .wrapper {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media screen and (max-width: 600px) {
+  .hymne {
+    width: 300px;
+    height: 350px;
+  }
+  .pengakuan{
+    
+  }
+}
+@media screen and (min-width: 768px) {
+  .hymne {
+    width: 300px;
+    height: 350px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .hymne {
+    width: 300px;
+    height: 350px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .hymne {
+    width: 300px;
+    height: 350px;
+  }
+}
+.accordion{
+
+  max-width: 1300px;
+  align-items: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  overflow: hidden;
+  font-family: 'Quicksand', sans-serif;
+  background-color: #000000;
+  
+}
+.nmablog{
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+ 
+   }
+.halaman{
+  padding: 30px;
+  justify-content:center;
+ 
+}
+.accordion__label,
+.accordion__content{
+  padding: 14px 20px;
+}
+
+.accordion__label{
+  display: block;
+  color: #ffffff;
+  font-weight: 500;
+  cursor: pointer;
+  position: relative;
+  transition: background 0.1s;
+}
+.accordion__label:hover{
+  background: rgba(0,0,0,0.1);
+}
+.accordion__label:after{
+  content: "";
+  position: absolute;
+  top:50%;
+  transform: translateY(-50%);
+  right: 20px;
+  width: 12px;
+  height: 6px;
+  background-image: url('data:image/svg+xml;utf8,<svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"><polygon points="0,0 100,0 50,50" style="fill:%23FFFFFF99;" /></svg>');
+  background-size: contain;
+  transition: transform 0.4s;
+}
+.accordion__content {
+  background: #ffffff;
+  line-height: 1.6;
+  font-size: 0.85em;
+  display: none;
+} 
+
+.accordion__input {
+  display: none;
+}
+
+.accordion__input:checked ~ .accordion__content {
+  display: block;
+}
+
+.accordion__input:checked ~ .accordion__label::after {
+  transform: translateY(-50%) rotate(0.5turn);
+}
+
+.table1 tr th{
+  background: #030303;
+  color: #fff;
+  font-weight: normal;
+  font-size: medium;
+  padding: 8px;
+}
+
+.table1 tr td {
+  padding: 20px 20px 20px;
+  text-align: start;
+  padding: 6px;
+}
+
+.table1 tr:hover {
+  background-color: #f5f5f5;
+}
+
+.table1 tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
