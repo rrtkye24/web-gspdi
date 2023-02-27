@@ -16,10 +16,9 @@ import {
   Td,
   Thead,
   Tbody,
-  Image,
-  useBreakpoint,
   useBreakpointValue,
   Center,
+  Image
 } from "@chakra-ui/react"
 import Modal from "react-modal"
 import organisasiJSON from "../organisasi.json"
@@ -46,20 +45,10 @@ const customStyles = {
     backgroundColor: "#e9e9e9b0",
   },
 }
-function Profile(url,) {
-  return(
-    <Box
-    width="25px"
-    height="25px"
-    borderRadius={"full"}
-    background={url_foto}
-    marginRight="10px"
-  />
-  )
-}
-function Majelis({ majelis, member, openModal, closeModal }) {
+
+function Majelis({ majelis, member, openModal }) {
   
-  const MajelisTr = ({  nama, jabatan, url_foto, onClick }) => {
+  const MajelisTr = ({  nama, jabatan, onClick }) => {
     return (
       <Tr onClick={onClick} _hover={{ background: "rgba(17, 22, 55, 0.8)" }} cursor="pointer">
         {/* <Td style={{ width: "5%", paddingTop: "10px", paddingBottom: "10px" }}>
@@ -179,11 +168,12 @@ export default function OrganizationStructure() {
         >
           <Flex className="react-modal-container">
             <Box>
-              <img
+              <Image
                 width={220}
                 height={220}
                 src={modalData?.url_foto}
                 className="member-photo"
+                alt=''
               />
               <Flex justify={"center"} paddingTop="20px">
                 <SocialIcon

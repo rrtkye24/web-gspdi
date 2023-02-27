@@ -1,3 +1,4 @@
+import {Image} from "@chakra-ui/react"
 export default function Hero() {
   return (
     <div
@@ -7,7 +8,7 @@ export default function Hero() {
         overflow: "hidden",
       }}
     >
-      <img
+      <Image
         src={"/img/church.jpg"}
         alt="hero"
         style={{

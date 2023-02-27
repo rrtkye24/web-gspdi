@@ -3,7 +3,7 @@ import { client, sanityImageUrl } from "../../sanity"
 import { NextSeo } from "next-seo"
 import Link from "next/link"
 import { useState } from "react"
-import SectionBackground from "../../components/reusables/SectionBackground"
+// import SectionBackground from "../../components/reusables/SectionBackground"
 // Local
 import NavigationBar from "../../components/NavigationBar"
 import Footer from "../../components/Footer"
@@ -29,7 +29,7 @@ function MetaHeader() {
   )
 }
 
-function Post({ mainImageUrl, title, excerpt, _updatedAt, slug }) {
+function Post({ mainImageUrl, title, _updatedAt, slug }) {
   return (
     <Link href={`/blog/${slug.current}`} passHref>
       <div className="post">

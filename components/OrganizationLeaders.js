@@ -1,5 +1,4 @@
-import styles from "../styles/HomeAbout.module.css"
-import { Box, Flex, Text, Heading, Image } from "@chakra-ui/react"
+import { Flex, Text, Image } from "@chakra-ui/react"
 
 const daniel = "img/daniel.jpg"
 const merryam = "img/merryam.jpg"

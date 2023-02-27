@@ -1,5 +1,5 @@
 import {
-    Box, Text, Image, Container, Center, Button,
+    Box, Text, Container,Button,
     AlertDialog,
     AlertDialogBody,
     AlertDialogFooter,

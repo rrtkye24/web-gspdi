@@ -1,6 +1,6 @@
 import React from "react"
 import styles from "../styles/HomeAbout.module.css"
-import Link from "next/link"
+// import Link from "next/link"
 function AboutStruktur() {
   return (
     <>

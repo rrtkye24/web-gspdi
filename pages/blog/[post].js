@@ -1,4 +1,4 @@
-import { Box, Text } from "@chakra-ui/react"
+import { Box, Text, Image } from "@chakra-ui/react"
 import { client, sanityImageUrl } from "../../sanity"
 import { PortableText } from "@portabletext/react"
 // Local
@@ -20,7 +20,7 @@ import NavigationBar from "../../components/NavigationBar"
 
 const PortableImage = ({ value }) => {
   return (
-    <img
+    <Image
       src={sanityImageUrl(value).width(800).fit("max").auto("format").url()}
       alt={value.alt || " "}
       loading="lazy"
@@ -39,7 +39,7 @@ export default function BlogPost(props) {
     <Box id="BlogPost" bg="#fafafa" >
       <NavigationBar />
       <Box pt={75}>
-      <img src={imageUrl} alt="main-image" />
+      <Image src={imageUrl} alt="main-image" />
       </Box>
       <Box className="post-container" >
         <Box className="post-content">

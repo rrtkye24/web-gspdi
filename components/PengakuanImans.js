@@ -1,23 +1,13 @@
 import React from 'react'
 import {
     Box,
-    VStack,
-    Button,
-    Flex,
     Divider,
     chakra,
     Grid,
     GridItem,
     Container,
     Center,
-    Text,
-    Image
 } from '@chakra-ui/react';
-import { motion, isValidMotionProp } from 'framer-motion';
-import NextLink from 'next/link'
-const ChakraBox = chakra(motion.div, {
-    shouldForwardProp: (prop) => isValidMotionProp(prop) || prop === 'children',
-});
 
 function Feature({ heading, text }) {
     return (

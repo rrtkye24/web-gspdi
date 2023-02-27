@@ -2,16 +2,12 @@ import { NextSeo } from "next-seo"
 // Local
 import NavigationBar from "../components/NavigationBar"
 import KataSambutan from "../components/KataSambutan"
-import PengakuanIman from "../components/PengakuanIman"
 import BlogPreview from "../components/BlogPreview"
 import Footer from "../components/Footer"
 import { client, sanityImageUrl } from "../sanity"
 import ImageSlider from "../components/ImageSlide"
-// import Hero from "../components/Hero"
-// import KataSambutanFloat from "../components/KataSambutanFloat"
 import Hymne from "../components/Hymne"
 import VisiMission from "../components/VisiMission"
-// import Pengakuan from "../components/PengakuanImans"
 
 // For SEO purposes, meta and open graph
 function MetaHeader() {

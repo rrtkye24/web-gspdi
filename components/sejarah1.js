@@ -1,11 +1,9 @@
 import {
-  Button,
   Flex,
   Heading,
   Image,
   Stack,
   Text,
-  useBreakpointValue,
 } from "@chakra-ui/react"
 
 function Sejarah() {

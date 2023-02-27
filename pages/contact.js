@@ -2,7 +2,6 @@ import {
   Box,
   Text,
   Stack,
-  Center,
   VStack,
   HStack,
   Button,
@@ -13,14 +12,11 @@ import {
   InputLeftElement,
   Textarea,
   useColorModeValue,
-  Heading,
   SimpleGrid,
   Container,
   Spinner,
   Alert,
   AlertIcon,
-  AlertTitle,
-  AlertDescription,
 } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
 import NavigationBar from "../components/NavigationBar"
@@ -59,7 +55,7 @@ function MetaHeader() {
 
 function Form({ _id }) {
   const router = useRouter()
-  const [formData, setFormData] = useState()
+  const [setFormData] = useState()
   const [isSubmitting, setIsSubmitting] = useState();
   const [hasSubmitted, setHasSubmitted] = useState();
   const { register, handleSubmit, formState: { errors } } = useForm()
@@ -135,7 +131,7 @@ function Form({ _id }) {
                       pointerEvents="none"
                     ><BsPerson color="gray.800"></BsPerson></InputLeftElement>
                     <Input {...register('name', { required: true })} placeholder="Nama" name="name" type="text" size="md" />\
-                    {errors?.name?.type === 'required' && <p>"Mohon isi kotak Nama"</p>}
+                    {errors?.name?.type === 'required' && <p>Mohon isi kotak Nama</p>}
                   </InputGroup>
                 </FormControl>
                 <FormControl id="email">
@@ -147,7 +143,7 @@ function Form({ _id }) {
                     <Input {...register("email", {
                       required: "Required",
                     })} type="email" size="md" placeholder="nama@email.com" />
-                    {errors?.email?.type === 'required' && <p>"Mohon isi kotak Email"</p>}
+                    {errors?.email?.type === 'required' && <p>Mohon isi kotak Email</p>}
                   </InputGroup>
                 </FormControl>
               </Stack>
@@ -163,7 +159,7 @@ function Form({ _id }) {
                   }}
                   placeholder="Masukkan Pesan ..."
                 />
-                {errors?.message?.type === 'required' && <p>"Mohon isi pesan untuk kami"</p>}
+                {errors?.message?.type === 'required' && <p>Mohon isi pesan untuk kami</p>}
               </FormControl>
               <FormControl id="name" float="right" pt={'10px'}>
                 {

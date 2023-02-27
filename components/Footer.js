@@ -1,9 +1,7 @@
 import {
-  Flex,
   Box,
   Text,
   HStack,
-  VStack,
   chakra,
   Container,
   Link,
@@ -12,27 +10,16 @@ import {
   VisuallyHidden,
   useColorModeValue,
   Divider,
-  background
-
 } from "@chakra-ui/react"
-import NextLink from "next/link"
-import { BiMailSend } from "react-icons/bi"
-import {
-  TiSocialTwitter,
-  TiSocialFacebook,
-  TiSocialInstagram,
-  TiSocialYoutube,
-  TiLocation,
-} from "react-icons/ti"
 import { AiOutlineMail } from "react-icons/ai"
 import { IoIosCall } from "react-icons/io"
 import Image from 'next/image'
-import { forwardRef } from "react"
+// import { forwardRef } from "react"
 import { FaFacebook, FaInstagram, FaTwitter, FaWhatsapp, FaYoutube } from "react-icons/fa"
 // Diwrap pake forwardRef karena ada error Warning: Function components cannot be given refs
 // https://github.com/vercel/next.js/issues/7915
 const backgroundColor = "#000000"
-const Logo = (props) => {
+const Logo = () => {
   return (
     <HStack >
       <Image
@@ -75,13 +62,13 @@ const ListHeader = ({ children }) => {
     </Text>
   )
 }
-const ButtonForwardRef = forwardRef(function Button(props, ref) {
-  return (
-    <Flex direction="column" align={"center"}>
-      {props.children}
-    </Flex>
-  )
-})
+// const ButtonForwardRef = forwardRef(function Button(props, ref) {
+//   return (
+//     <Flex direction="column" align={"center"}>
+//       {props.children}
+//     </Flex>
+//   )
+// })
 
 export default function Footer() {
   return (

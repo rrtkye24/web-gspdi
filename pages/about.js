@@ -1,8 +1,7 @@
-import { Box, Text, Stack, Heading,Button, Flex, Image, Container, Center, Link, VStack, HStack } from "@chakra-ui/react"
+import { Box, Text, Stack, Heading, Container, Center, Link, VStack} from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
 
 // Local
-import SectionBackground from "../components/reusables/SectionBackground"
 import NavigationBar from "../components/NavigationBar"
 import Footer from "../components/Footer"
 import PengakuanIman from "../components/PengakuanIman"

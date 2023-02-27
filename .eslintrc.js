@@ -18,6 +18,8 @@ module.exports = {
   },
   plugins: ["react"],
   rules: {
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-page-custom-font": "off",
     "react/prop-types": "off",
     "react/react-in-jsx-scope": "off",
     "no-unused-vars": "warn",
