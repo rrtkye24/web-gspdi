@@ -55,7 +55,7 @@ export default function About() {
           </Text>
         </Heading>
         <Text color={'gray.500'} maxW={'3xl'}>
-        Gereja Sidang Pantekosta Di Indonesia adalah gereja yang hadir di seluruh di Indonesia. Menggunakan Strategi SMART(Specific, Measurable, Achivable, Realistik, Timely) melalui 4 bidang 
+        Gereja Sidang Pantekosta Di Indonesia adalah gereja yang hadir di seluruh Indonesia. Menggunakan Strategi SMART(Specific, Measurable, Achivable, Realistik, Timely) melalui 4 bidang 
           penatalayanan (Organisasi, Pengembalaan, Pendidikan dan Misi, Diakonia, dan Teknologi).
         </Text>
       </Stack>

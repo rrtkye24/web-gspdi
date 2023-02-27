@@ -102,7 +102,7 @@ export default function Blog({ recentPosts }) {
           textAlign={'center'}
           align={'center'}
           spacing={{ base: 8, md: 10 }}
-          py={{ base: 10, md: 28 }}>
+          py={{ base: 5, md: 20 }}>
           <Heading
             fontWeight={600}
             fontSize={{ base: '3xl', sm: '4xl', md: '6xl' }}
@@ -112,9 +112,9 @@ export default function Blog({ recentPosts }) {
               Kami
             </Text>
           </Heading>
-          <Text color={'gray.500'} maxW={'3xl'}>
+          {/* <Text color={'gray.500'} maxW={'3xl'}>
               kami memberikan informasi mengenai kegiatan terbaru yang dilakukan oleh gereja.
-            </Text>
+            </Text> */}
         </Stack>
       </Container>
       <div className="respon">

@@ -138,10 +138,10 @@ export default function Footer() {
                   </Text>
                   <Text color={'gray.500'} fontSize={{ base: 12, md: 14, lg: 18 }}><Link href="mailto:majelispusatgspdi">majelispusatgspdi@gmail.com</Link></Text>
                 </HStack>
-                <Box pt="6">
+                {/* <Box pt="6">
                   <ListHeader>Menu</ListHeader>
                   <Link color="gray.500" href={"https://keuangan-gspdi.vercel.app"}>- Login</Link>
-                </Box>
+                </Box> */}
               </Box>
               {/* <VStack pt={4} spacing={4}
                 align='stretch'>

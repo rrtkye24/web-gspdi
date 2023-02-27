@@ -1,6 +1,6 @@
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
+Open https://gspdi.org this the main domain
 Untuk mengganti Link drive image di struktur organisasi :
 1. buka organisasi.json
 2. di url_foto ubah link
