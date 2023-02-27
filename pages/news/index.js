@@ -101,7 +101,7 @@ export default function Berita({ recentPosts }) {
           textAlign={'center'}
           align={'center'}
           spacing={{ base: 8, md: 10 }}
-          pt={{ base: 24, md: 28 }}
+          pt={{ base: 24, md: 28}}
           pb={{ base: 0, md: 10 }}>
           <Heading
             fontWeight={600}

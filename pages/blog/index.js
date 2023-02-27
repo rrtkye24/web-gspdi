@@ -102,7 +102,7 @@ export default function Blog({ recentPosts }) {
           textAlign={'center'}
           align={'center'}
           spacing={{ base: 1, md: 10 }}
-          pt={{ base: 24, md: 28 }}
+          pt={{ base: 24, md: 28}} 
           pb={{ base: 0, md: 10 }}>
           <Heading
             fontWeight={600}
