@@ -101,16 +101,15 @@ export default function Blog({ recentPosts }) {
         <Stack
           textAlign={'center'}
           align={'center'}
-          spacing={{ base: 8, md: 10 }}
-          py={{ base: 5, md: 20 }}>
+          spacing={{ base: 1, md: 10 }}
+          pt={{ base: 24, md: 28 }}
+          pb={{ base: 0, md: 10 }}>
           <Heading
             fontWeight={600}
-            fontSize={{ base: '3xl', sm: '4xl', md: '6xl' }}
+            fontSize='4xl'
+            // fontSize={{ base: '3xl', sm: '4xl', md: '6xl' }}
             lineHeight={'110%'}>
             Artikel {' '}
-            <Text as={'span'} color={'yellow.400'}>
-              Kami
-            </Text>
           </Heading>
           {/* <Text color={'gray.500'} maxW={'3xl'}>
               kami memberikan informasi mengenai kegiatan terbaru yang dilakukan oleh gereja.

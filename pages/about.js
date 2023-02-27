@@ -44,10 +44,10 @@ export default function About() {
         textAlign={'center'}
         align={'center'}
         spacing={{ base: 8, md: 10 }}
-        py={{ base: 20, md: 28 }}>
+        py={{ base: 24, md: 28 }}>
         <Heading
           fontWeight={600}
-          fontSize={{ base: '3xl', sm: '4xl', md: '6xl' }}
+          fontSize='4xl'
           lineHeight={'110%'}>
           Tentang {' '}
           <Text as={'span'} color={'yellow.400'}>

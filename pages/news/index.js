@@ -60,8 +60,7 @@ export default function Berita({ recentPosts }) {
 
     try {
       const recentPosts = await client.fetch(
-        `*[_type == 'post' && "Berita" in categories[]->title ] | order(_publishedAt desc)[${postCount}..${
-          postCount + perPage
+        `*[_type == 'post' && "Berita" in categories[]->title ] | order(_publishedAt desc)[${postCount}..${postCount + perPage
         }]{
               slug,
               title,
@@ -95,27 +94,23 @@ export default function Berita({ recentPosts }) {
 
   return (
     <Box bg="#fafafa">
-      <MetaHeader/>
+      <MetaHeader />
       <NavigationBar />
-       <Container maxW={'xl'}>
+      <Container maxW={'xl'}>
         <Stack
           textAlign={'center'}
           align={'center'}
           spacing={{ base: 8, md: 10 }}
-          py={{ base: 10, md: 20 }}>
+          pt={{ base: 24, md: 28 }}
+          pb={{ base: 0, md: 10 }}>
           <Heading
-           fontWeight={600}
-           fontSize={{ base: '3xl', sm: '4xl', md: '6xl' }}
-           lineHeight={'110%'}
-            >
+            fontWeight={600}
+            fontSize='4xl'
+            //  fontSize={{ base: '3xl', sm: '4xl', md: '6xl' }}
+            lineHeight={'110%'}
+          >
             Berita {' '}
-            <Text as={'span'} color={'yellow.400'}>
-              Kami
-            </Text>
           </Heading>
-          <Text color={'gray.500'} maxW={'3xl'}>
-              kami memberikan informasi mengenai berita terbaru yang dilakukan oleh gereja.
-            </Text>
         </Stack>
       </Container>
       <div className="respon">
@@ -124,19 +119,19 @@ export default function Berita({ recentPosts }) {
           text={"Blog"}
         /> */}
         {/* <div className="post-list-container"> */}
-          <div className="container-ku">
-            {posts.map((doc) => (
-              <Post {...doc} key={doc.slug.current} />
-            ))}
-          </div>
+        <div className="container-ku">
+          {posts.map((doc) => (
+            <Post {...doc} key={doc.slug.current} />
+          ))}
         </div>
+      </div>
 
-        <Flex justify={"center"}pb={'2em'} >
-          <Button onClick={fetchPosts}>
-            {isLoading ? "Memproses..." : "Tampilkan lebih"}
-          </Button>
-        </Flex>
-        <Footer />
+      <Flex justify={"center"} pb={'2em'} >
+        <Button onClick={fetchPosts}>
+          {isLoading ? "Memproses..." : "Tampilkan lebih"}
+        </Button>
+      </Flex>
+      <Footer />
       {/* </div> */}
     </Box>
   )
