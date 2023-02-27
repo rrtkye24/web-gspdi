@@ -44,7 +44,7 @@ export default function About() {
         textAlign={'center'}
         align={'center'}
         spacing={{ base: 8, md: 10 }}
-        py={{ base: 24, md: 28 }}>
+        py={{ base: 24, md: 28}}>
         <Heading
           fontWeight={600}
           fontSize='4xl'
