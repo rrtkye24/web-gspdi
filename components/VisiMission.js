@@ -36,7 +36,7 @@ export default function VisiMission() {
                     Misi
                 </Text>
                 <Text marginTop="10px">
-                    Menjadi dan menjadikan murid Kristus, Matius 28:19-20
+                Mewujudkan GSPDI yang dinamis dan konstruktif dengan penatalayanan partisipatoris melalui kerjasama dan semangat persatuan dalam mengemban amanat Agung.
                 </Text>
                 <Button onClick={onOpen} colorScheme='whiteAlpha' mt="10px" variant='link'>
                     Selengkapnya

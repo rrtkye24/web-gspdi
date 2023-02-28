@@ -22,7 +22,7 @@ export default function WithBackgroundImage() {
         w={"full"}
         justify={"center"}
         px={useBreakpointValue({ base: 4, md: 8 })}
-        bgGradient={"linear(to-r, blackAlpha.500, transparent)"}
+        bgGradient={"linear(to-r, blackAlpha.600, transparent)"}
       >
         <Stack>
           <Center>
@@ -46,7 +46,7 @@ export default function WithBackgroundImage() {
               Gereja Sidang Pantekosta Di Indonesia
             </Text>
           </Center>
-          <Stack w={{ base: "200px", md: "500px" }}>
+          <Stack w={{ base: "200px", md: "400px" }}>
             <Image
               alt=""
               src={"/img/filadelfia.png"}

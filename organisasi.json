@@ -261,7 +261,7 @@
         "NAMA_GEREJA": "GSPDI FILADELFIA ELCAVANA",
         "ALAMAT_GEREJA": "Jl Cikahuripan No 11 Bandung",
         "INSTAGRAM": "",
-        "URL_FOTO": "https://drive.google.com/file/d/1DJcoj9La2JGN3FqOUWOtIpJxR7j8LHUp/view?usp=sharing"
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1DJcoj9La2JGN3FqOUWOtIpJxR7j8LHUp"
       },
       {
         "NO": 24,
@@ -272,7 +272,7 @@
         "NAMA_GEREJA": "GSPDI Kelapa Gading",
         "ALAMAT_GEREJA": "Kelapa Kopyor Timur 1 BA 1 no 6 , Kelapa Gading",
         "INSTAGRAM": "",
-        "URL_FOTO": "https://drive.google.com/file/d/17_SUSEydmBELrSIam_I3SJ5nc91gSbLa/view?usp=sharing"
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=17_SUSEydmBELrSIam_I3SJ5nc91gSbLa"
       },
       {
         "NO": 25,
@@ -283,7 +283,7 @@
         "NAMA_GEREJA": "GSPDI Filadelfia Tanjung Priok",
         "ALAMAT_GEREJA": "Jalan Enim I no 59, Tanjung Priok, Jakarta Utara",
         "INSTAGRAM": "",
-        "URL_FOTO": "https://drive.google.com/file/d/10Z0wo16xZdCSS3trmGiVX7K8BkkZZSDr/view?usp=sharing"
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=10Z0wo16xZdCSS3trmGiVX7K8BkkZZSDr"
       },
       {
         "NO": 26,
@@ -294,7 +294,7 @@
         "NAMA_GEREJA": "GSPDI F Jelambar",
         "ALAMAT_GEREJA": "Jl AA no 8 RT 12 RW 2 Jelambar Jaya Grogol Petamburan",
         "INSTAGRAM": "",
-        "URL_FOTO": "https://drive.google.com/file/d/1SlHDo-pztRZCG4kBDSWz4jvjINaZfkQ2/view?usp=sharing"
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1SlHDo-pztRZCG4kBDSWz4jvjINaZfkQ2"
       },
       {
         "NO": 27,
@@ -349,7 +349,7 @@
         "NAMA_GEREJA": "GSPDI FILADELFIA BEDALI.",
         "ALAMAT_GEREJA": " Jl.dr.Cipto VIII Kapl Pojok RT 07 RW 10 Ds.Bedali, Lawang. (GEMBALA JEMAAT) ",
         "INSTAGRAM": "",
-        "URL_FOTO": "https://drive.google.com/file/d/13LV0WkayBekEFKzdZiT8eW2Zbw1fBxKx/view?usp=sharing"
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=13LV0WkayBekEFKzdZiT8eW2Zbw1fBxKx"
       }
     ]
   },
@@ -360,6 +360,39 @@
     "member": [
       {
         "NO": 32,
+        "NO_KTJ": "1.1.08051954",
+        "NAMA": "Pdt. Payaman Sihotang",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Filadelfia Selayang",
+        "ALAMAT_GEREJA": "Jl. Pardomuan Nauli, Selayang Baru, Kec. Selesai, Kabupaten Langkat, Sumatera Utara 20761",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1U3nouOkqxXQkff4MzDRr5P2sXP_Kz-Nl"
+      },
+      {
+        "NO": 32,
+        "NO_KTJ": "1.1.09101949",
+        "NAMA": "Pdt. Selamat Manurung",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Filadelfia Martubung ",
+        "ALAMAT_GEREJA": "Jl. Jaring Raya no.3, Martubun",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1QIENOmlJ9MhZjGKnlD_mRDB4ZF-yqnzx"
+      },
+      {
+        "NO": 32,
+        "NO_KTJ": "1.1.10101965",
+        "NAMA": "Pdt. Jamurni Simalango",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Filadelfia Bahrakey",
+        "ALAMAT_GEREJA": "Dusun III Desa Mariah Nagur, Kecamatan Sipispis, Kab. Serdang Bedagai",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1O_Lm25ZjcHNzY0c3i7EptUGNbJxuVL7v"
+      },
+      {
+        "NO": 32,
         "NO_KTJ": "1.1.31051972",
         "NAMA": "Pdt. Erikson LM. Simamora",
         "JABATAN": "Ketua",
@@ -367,7 +400,7 @@
         "NAMA_GEREJA": "GSPDI Filadelfia Cemara",
         "ALAMAT_GEREJA": "Jl. Cemara No.35 P.Brayan Bengkel Baru, Medan",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1gLVAT-HYtaRt9gBUNkuAmI3mUOmStra-"
       },
       {
         "NO": 33,
@@ -378,7 +411,7 @@
         "NAMA_GEREJA": "GSPDI Filadelfia Desa Pon",
         "ALAMAT_GEREJA": "Jl. Kebun Tengah Dusun II, Desa Pon, Sei Bamban, Serdang Bedagai",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1wUm42L2CJa83y6GBIY2xp5kxty9Ad8Cg"
       },
       {
         "NO": 34,
@@ -389,7 +422,7 @@
         "NAMA_GEREJA": "GSPDI Filadelfia Titi Papan",
         "ALAMAT_GEREJA": "Jl. Platina 1 Gg. Sahabat Lk. IX, Kelurahan Titi Papan, Kec. Medan Deli, Medan",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1KcY9eeI7PHkyGtzc26n-tWlDa1QocBFY"
       },
       {
         "NO": 35,
@@ -400,7 +433,7 @@
         "NAMA_GEREJA": "GSPDI Filadelfia Marindal I",
         "ALAMAT_GEREJA": "Jl. Mekatani Blk. - B, Marindal Satu, Kec. Patumbak, Kabupaten Deli Serdang, Sumatera Utara 20148",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1NBhE7c7NpiSo33WwM2yEevDsocnrD1Pq"
       },
       {
         "NO": 36,
@@ -411,7 +444,7 @@
         "NAMA_GEREJA": "GSPDI Filadelfia Sihotang",
         "ALAMAT_GEREJA": "desa Hariara Pohan, Kec. Harian, Kab.Samosir",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1KN84S7mhWIMT3sTISQry-Hi1iXLvO0XA"
       },
       {
         "NO": 37,
@@ -422,7 +455,7 @@
         "NAMA_GEREJA": "GSPDI Filadelfia Jermal XV",
         "ALAMAT_GEREJA": "Jl.Manunggal IV- Jermal XV",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1VeprzRqcLva4RL7cDLcIqZGPjs5AK9Yl"
       },
       {
         "NO": 38,
@@ -433,7 +466,7 @@
         "NAMA_GEREJA": "GSPDI Filadelfia Mahar",
         "ALAMAT_GEREJA": "Desa Lae Itam, Kec.Siempat Nempuh Hilir, Dairi",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=16MPdo6o9W0_CJIwM3VLVFjXJouWeC0jI"
       },
       {
         "NO": 39,
@@ -444,36 +477,57 @@
         "NAMA_GEREJA": "GSPDI Filadelfia Sumber Mufakat",
         "ALAMAT_GEREJA": "Jl. Jamin Ginting Gg. Sada Arih, Dsn VI Sumber Mufakat, Kabanjahe, Kab.Tanah Karo",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1lAcclViv4bHCIR7d7lQqgMTLlr4FVFCw"
       },
       {
         "NO": 40,
-        "NO_KTJ": "",
+        "NO_KTJ": "1.1.04021973",
         "NAMA": "Pdt. Saur Silalahi",
         "JABATAN": "Biro Diakonia & Sosial",
         "STATUS": "Pendeta",
         "NAMA_GEREJA": "GSPDI Filadelfia Muliorejo",
         "ALAMAT_GEREJA": "Jl. Medan - Binjai No.35, Medan Krio, Kec. Sunggal, Kabupaten Deli Serdang, Sumatera Utara 20351",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1u1H0Fyr22tG26q80PmChzQFFYRJVf7k1"
       }
     ]
   },
   {
     "majelis": "RIAU, JAMBI, & SUMATERA BARAT",
     "majelisDisplay": "Riau, Jambi, & Sumatera Barat",
-
     "member": [
       {
         "NO": 41,
-        "NO_KTJ": "",
+        "NO_KTJ": "2.1.24051958",
+        "NAMA": "Pdt. Josua Togatorop, S.Th.",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI FiladelphiaBaganbatu",
+        "ALAMAT_GEREJA": "RIAU",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=11RfvGUF57fhUcsosbWQ7lUQ-HlGNqldQ"
+      },
+      {
+        "NO": 41,
+        "NO_KTJ": "2.1.16111970",
+        "NAMA": "Pdt. Samuel",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "Gspdi Filadelfia ",
+        "ALAMAT_GEREJA": "Jl.indrapuri ujung/ usaha maju Rt.04 Rw.05 Kel.Bencah lesung. Kec.Tenayan raya Pekanbaru",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1u7XUjq73xM2jQxJID9ONYSQHsaieUSiR"
+      },
+      {
+        "NO": 41,
+        "NO_KTJ": "2.1.02081950",
         "NAMA": "Pdt. Ricson Sitorus",
         "JABATAN": "Ketua",
         "STATUS": "Pendeta",
         "NAMA_GEREJA": "GSPDI FILADELFIA PEKANBARU",
         "ALAMAT_GEREJA": "Jl. kereta api, gang. Filadelfia no91 tangkerang tengah riau",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1smm01dH6bzWDX02QQj0Jcf2ur_bd1sRe"
       },
       {
         "NO": 42,
@@ -484,7 +538,7 @@
         "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA GUNUNG SALAK",
         "ALAMAT_GEREJA": "Jl. Gunung Salak RT 01 RW 09 Kel Pebatuan Kec Kulim Pekanbaru Riau",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1NKl80gWV9SPKTMmHtZz953IGXFDpAFAZ"
       },
       {
         "NO": 43,
@@ -506,7 +560,7 @@
         "NAMA_GEREJA": "GSPDI FILADELFIA RUMBAI - PEKANBARU - RIAU",
         "ALAMAT_GEREJA": "JL. TOMAN RT 01/ RW 02 RUMBAI BUKIT - RUMBAI - PEKANBARU - RIAU",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1e2hw8JGDyMA-JbjKzGrg8mSUcc2a4CU2"
       },
       {
         "NO": 45,
@@ -528,7 +582,7 @@
         "NAMA_GEREJA": "GSPDI FILADELFIA KASIH KARUNIA",
         "ALAMAT_GEREJA": "JL.PETAPAHAN RT/RW : 020/002",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1m3wbxIRekmMqssMeKLDkoJA66tVZX_uI"
       },
       {
         "NO": 47,
@@ -539,7 +593,7 @@
         "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA SP II Sila Mulia Bangkinang Riau",
         "ALAMAT_GEREJA": "Jl. RAYA Bangkinang Petapahan km 21 Desa Suka Mulya RT 02 RW 08 Kampar Riau",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1kbPlSuRHI7TR9C46qa0YXeQwnQpR1Hj-"
       },
       {
         "NO": 48,
@@ -550,7 +604,7 @@
         "NAMA_GEREJA": "GSPDI FILADELFIA JLN KERETA API NO 91b TANGKERANG PEKANBARU RIAU",
         "ALAMAT_GEREJA": "Jln Hakim Perumahan Green Pasir Putih Blok D 1 Kampar Riau",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1HD35MPoTQpnxyVbE_omYWUIYCoW42rL6"
       },
       {
         "NO": 49,
@@ -561,7 +615,7 @@
         "NAMA_GEREJA": "jl.kereta api, Gg filadelfia no91b tangkerang tengah-riau",
         "ALAMAT_GEREJA": "Jl.kereta api, Gg filadelfia no91b tangkerang tengah-riau",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1N9brx_KzZ1ko16dG22D2VMRi8yGa7V1D"
       },
       {
         "NO": 50,
@@ -572,7 +626,7 @@
         "NAMA_GEREJA": "gspdi filadelfia pekanbaru jl. kereta api, Gg filadelfia. no91b takerang tengah- Riau",
         "ALAMAT_GEREJA": "jl. kereta api, Gg filadelfia. no91b takerang tengah- Riau",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1Kx_TjC4uGZrrGd1dfWcGM2oXijrk-ROh"
       },
       {
         "NO": 51,
@@ -583,7 +637,7 @@
         "NAMA_GEREJA": "Gereja Sidang Pantekosta Di Indonesia Jemaat Filadelfia IndustriTenayan",
         "ALAMAT_GEREJA": "Jln.Tenayan Jaya Kelurahan: IndustriTenayan Kecamatan: Tenayan Raya Kota: Pekanbaru.Riau",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=12kH0SSZRaiotSboOSJi5XgFvzbSXBN1X"
       },
       {
         "NO": 52,
@@ -594,7 +648,7 @@
         "NAMA_GEREJA": "GSPDI FILADELFIA PT.KEBUN PANTAI RAJA TANJUNG PAUH ",
         "ALAMAT_GEREJA": "Divisi 5 TANJUNG PAUH",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1mizrnZcmTchAGlxTt_ws2CEFxmnQByWd"
       },
       {
         "NO": 53,
@@ -605,7 +659,7 @@
         "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA TUMANG. DESA TUMANG KEC SIAK KAB SIAK",
         "ALAMAT_GEREJA": "Jl Merpati Tangkerang Tengah Pekanbaru",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1gliaqE_t4VDEVTf2QmS1LXrDI4NFtKoK"
       },
       {
         "NO": 54,
@@ -616,7 +670,7 @@
         "NAMA_GEREJA": "GSPDI-Filadelfia - Tualang Timur",
         "ALAMAT_GEREJA": "Jl.Baru Bakal,Desa Tualang Timur",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=13hJINPh9nr2lNMjrgASNM9vw2vKobZmL"
       }
     ]
   },
@@ -627,9 +681,65 @@
       {
         "NO": 55,
         "NO_KTJ": "",
-        "NAMA": "Pdt. Simon A. Torrys",
-        "JABATAN": "Ketua",
+        "NAMA": "Pdt. Drs. Jacky Heydemans",
+        "JABATAN": "Penasehat",
+        "STATUS": "",
+        "NAMA_GEREJA": "",
+        "ALAMAT_GEREJA": "",
+        "INSTAGRAM": "",
+        "URL_FOTO": ""
+      },
+      {
+        "NO": 55,
+        "NO_KTJ": "",
+        "NAMA": "Pdt. Yoseph Hadibrata",
+        "JABATAN": "Penasehat",
+        "STATUS": "",
+        "NAMA_GEREJA": "",
+        "ALAMAT_GEREJA": "",
+        "INSTAGRAM": "",
+        "URL_FOTO": ""
+      },
+      {
+        "NO": 55,
+        "NO_KTJ": "3.1.28091941",
+        "NAMA": " Pdt. Yakup Latip",
+        "JABATAN": "Penasehat",
         "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Filadefia Kelapa Gading ",
+        "ALAMAT_GEREJA": "Jl Kelapa Kopyor Timur 1 BA1 no 5, Kelapa Gading",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1Vm40_W75QdP5DiWNZNvuzm1zQDvCIMZs"
+      },
+     
+      {
+        "NO": 55,
+        "NO_KTJ": "",
+        "NAMA": "Pdt. Dr. Freddy E.Zakcharia",
+        "JABATAN": "Penasehat",
+        "STATUS": "",
+        "NAMA_GEREJA": "",
+        "ALAMAT_GEREJA": "",
+        "INSTAGRAM": "",
+        "URL_FOTO": ""
+      },
+      {
+        "NO": 55,
+        "NO_KTJ": "3.1.09051959",
+        "NAMA": "Pdt. Amelia Inawaty",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Filadelfia Bellezza",
+        "ALAMAT_GEREJA": "Jakarta Selatan",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1RRZUJc7XZTZ1u1CzyjTxuJT99PTdJKiX"
+      },
+      {
+        "NO": 55,
+        "NO_KTJ": "",
+        "NAMA": "Pdt. Simon Alfaso Torrys,",
+        "JABATAN": "Ketua",
+        "STATUS": "",
         "NAMA_GEREJA": "",
         "ALAMAT_GEREJA": "",
         "INSTAGRAM": "",
@@ -637,19 +747,19 @@
       },
       {
         "NO": 56,
-        "NO_KTJ": "",
+        "NO_KTJ": "3.1.09061963",
         "NAMA": "Pdm. Netty Sulaeman",
         "JABATAN": "Wakil Ketua",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Bellezza",
+        "ALAMAT_GEREJA": "Jakarta Selatan",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1spbFYKj43rhrh-8azjwnPJ_UlvbFkZoV"
       },
       {
         "NO": 57,
         "NO_KTJ": "",
-        "NAMA": "Pdm. Ivan Heydemans",
+        "NAMA": "Pdt. Parulian Butar-butar",
         "JABATAN": "Sekretaris",
         "STATUS": "Pendeta",
         "NAMA_GEREJA": "",
@@ -659,36 +769,36 @@
       },
       {
         "NO": 58,
-        "NO_KTJ": "",
+        "NO_KTJ": "3.1.25071994",
         "NAMA": "Pdp. Elsa Maria Sugianto",
         "JABATAN": "Wakil Sekretaris",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Pembantu",
+        "NAMA_GEREJA": "GSPDI Jemataa Filadelfia Palm",
+        "ALAMAT_GEREJA": "Mansion Apartmen Palm Mansion (Tower L) Jl. Boulevard Taman Surya V Blok EE1, RT.2/RW.3, Pegadungan, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11830",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1hbfHoTXNxAHDHny2bBBygw369Ee9gP_4"
       },
       {
         "NO": 59,
-        "NO_KTJ": "",
+        "NO_KTJ": "3.1.24121962",
         "NAMA": "Pdm. Krisianty Suhartono",
         "JABATAN": "Bendahara",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Bellezza ",
+        "ALAMAT_GEREJA": "Jakarta Selatan",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1-_l6-zuQNUWnfpaQ9EAtaFr20zQkCMdJ"
       },
       {
         "NO": 60,
-        "NO_KTJ": "",
+        "NO_KTJ": "3.1.06051971",
         "NAMA": "Pdt. Phebe Latif",
         "JABATAN": "Wakil Bendahara",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Filadelfia Kelapa Gadin",
+        "ALAMAT_GEREJA": "Jl Kelapa Kopyor Timur 1 BA1 no 5, Kelapa Gading",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1xUxot-nwm-jZ2X0zKynYZOJoyS56FaNY"
       },
       {
         "NO": 61,
@@ -703,41 +813,41 @@
       },
       {
         "NO": 62,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Ricky Mawuntu",
+        "NO_KTJ": "3.1.22041971",
+        "NAMA": "Pdt. Nicolas Ricky Prins Mawuntu",
         "JABATAN": "Biro Misi & Penanaman Gereja",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Karawaci Tanggerang Banten",
+        "ALAMAT_GEREJA": "Jl.Mendut Raya No.36A Perum Dua Karawaci Tangerang",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=14pKjgL66F5inzx7p5dEhNR_No_rnwGYR"
       },
       {
         "NO": 63,
-        "NO_KTJ": "",
+        "NO_KTJ": "3.1.1091981",
         "NAMA": "Pdm. Yanti Yap",
         "JABATAN": "Biro Pemuda & Anak Hamba Tuhan",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI Candra Naya",
+        "ALAMAT_GEREJA": " JL. Jembatan Besi 2 no 26 jakarta barat",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1T85Nt-dyCyqZIUjr4OF183x8DK6OQavO"
       },
       {
         "NO": 64,
-        "NO_KTJ": "",
-        "NAMA": "Pdm. Lena Magdalena W.",
+        "NO_KTJ": "3.1.05041967",
+        "NAMA": "Pdm. Maria Magdalena Waturangi",
         "JABATAN": "Biro Wanita",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI FILADELFIA AIR HIDUP",
+        "ALAMAT_GEREJA": "Pluit",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1mwyCXOQNjoxZBAwAs_a5AFwxe4uUerXS"
       },
       {
         "NO": 65,
         "NO_KTJ": "",
-        "NAMA": "Pdm. Belly Chevren Torris",
+        "NAMA": "Pdp. Metta Wijaya",
         "JABATAN": "Biro Anak & Guru Sekolah Minggu",
         "STATUS": "Pendeta",
         "NAMA_GEREJA": "",
@@ -749,7 +859,7 @@
         "NO": 66,
         "NO_KTJ": "",
         "NAMA": "Pdm. Heppy Yohanes",
-        "JABATAN": "Biro InhtmlFormasi Teknologi & Multimedia",
+        "JABATAN": "Biro Informasi Teknologi & Multimedia",
         "STATUS": "Pendeta",
         "NAMA_GEREJA": "",
         "ALAMAT_GEREJA": "",
@@ -758,25 +868,25 @@
       },
       {
         "NO": 67,
-        "NO_KTJ": "",
-        "NAMA": "Pdm. Lauw Merry",
+        "NO_KTJ": "3.1.18111964",
+        "NAMA": "Pdm. Lauw Merrie",
         "JABATAN": "Biro Diakonia & Sosial",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Jelambar Barat",
+        "ALAMAT_GEREJA": "Jl. Jelambar Barat II C, Y1 No.50 Jakarta Barat DKI Jakarta 11460",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1KOg-toXPvldUWyLFYOOI5Z5gVqjzHrr5"
       },
       {
         "NO": 68,
-        "NO_KTJ": "",
+        "NO_KTJ": "3.1.11081992",
         "NAMA": "Pdm. Stevanus E. Torrys",
         "JABATAN": "Biro Pendidikan & Pengajaran",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Palm Mansion Apartemen Palm Mansion (Tower L)",
+        "ALAMAT_GEREJA": "Jl. Boulevard Taman Surya V Blok EE1, RT.2/RW.3, Pegadungan, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11830",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1BW6DxInwr2zzy3Gep2ruS7KZ_5KoTRlS"
       },
       {
         "NO": 69,
@@ -797,47 +907,80 @@
     "member": [
       {
         "NO": 70,
-        "NO_KTJ": "",
+        "NO_KTJ": "4.1.05071954",
+        "NAMA": "Pdt. John Leonard Oroh",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Jamblang",
+        "ALAMAT_GEREJA": "Jl. Raya Jamblang No. 28 Jamblang",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1L76wXTEIXFjRBQHW6CjJoFOWqnMj5B-N"
+      },
+      {
+        "NO": 70,
+        "NO_KTJ": "4.1.03021957",
+        "NAMA": "Pdt. Yvonne CH. Tairas",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI JF Pusdikpom",
+        "ALAMAT_GEREJA": "Komp. Palm Indah no 1 Cipageran, Cimahi Utara",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1Cvd5pJTzSPA9prxB1Pc8MmBtm_En7SM1"
+      },
+      {
+        "NO": 70,
+        "NO_KTJ": "4.1.04031955",
+        "NAMA": "Pdt. Elisa Korompis",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI JF Sukabumi Jl. Sukabumi - Bandung",
+        "ALAMAT_GEREJA": "Jl. Bahagia II No 25 Marga Cinta – Bandung",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=18IADEazJEsh6VOHAElyx7wddbBRW81yp"
+      },
+      {
+        "NO": 70,
+        "NO_KTJ": "4.1.19061970",
         "NAMA": "Pdt. Markus Pratigno",
         "JABATAN": "Ketua",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI F Taman Kopo Indah",
+        "ALAMAT_GEREJA": "TKI Ii E2 No.47",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1jwNb82ZHd0v9CXXCWs9LKeQRH_eliQ8f"
       },
       {
         "NO": 71,
-        "NO_KTJ": "",
+        "NO_KTJ": "4.1.25101980",
         "NAMA": "Pdt. Ronni Wowor",
         "JABATAN": "Wakil Ketua",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI FILADELFIA SUBANG ",
+        "ALAMAT_GEREJA": "Jl. Letda Ismail Gang Bidara no 5 RT 02/ RW 01 Kel. Karang Anyar Kec. Subang, Kab. Subang Jawa Barat 41211",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1Tpsf5nzgdmiynw6GiRoGRKQXkPR-7l9Y"
       },
       {
         "NO": 72,
-        "NO_KTJ": "",
+        "NO_KTJ": "4.1.13111983",
         "NAMA": "Pdt. Ariel Massie",
         "JABATAN": "Sekretaris",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI JF Pusdikpom Jl. Baru no 1 Kompleks Pusdikpom CImahi",
         "ALAMAT_GEREJA": "",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1dohO6C10MThvjq9bsLApU0F9z2eO8bOp"
       },
       {
         "NO": 73,
-        "NO_KTJ": "",
+        "NO_KTJ": "4.1.19111973",
         "NAMA": "Pdm. Daniel Gunawan",
         "JABATAN": "Wakil Sekretaris",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPFI Filadelfia Immanuel Cimahi Jl. Pabrik Aci, Komp Ruko Cimahi Square Blok B 12-15",
+        "ALAMAT_GEREJA": "Taman Kopo Indah 3 Ruko C no 20",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1us2Er-V6inxL13GD4ORyRJ5Za9m4fQP9"
       },
       {
         "NO": 74,
@@ -867,14 +1010,14 @@
         "NAMA": "Pdt. John Wesley Onibala",
         "JABATAN": "Biro Hukum & Hubungan Antar Lembaga",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "Gspdi filadelfia jl. Stasiun 79 pagaden subang",
+        "ALAMAT_GEREJA": "Kp. Sukajaya no. 18 rt. 040 rw, 010 ds. Sukamulya kec. Pagaden Subang 41252",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1IaTyCjho-tpTotZvbQztJxein_sxWfJU"
       },
       {
         "NO": 77,
-        "NO_KTJ": "",
+        "NO_KTJ": "4.1.22031966",
         "NAMA": "Pdt. Harun Wiyanto",
         "JABATAN": "Biro Pendidikan & Misi",
         "STATUS": "Pendeta",
@@ -885,58 +1028,58 @@
       },
       {
         "NO": 78,
-        "NO_KTJ": "",
+        "NO_KTJ": "4.1.05051985",
         "NAMA": "Pdp. Yemima CM. Korompis",
         "JABATAN": "Biro Pemuda & Anak Hamba Tuhan",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Pembantu",
+        "NAMA_GEREJA": "GSPDI FILADELFIA 3 LEMBANG",
+        "ALAMAT_GEREJA": "Jl Srikania no 16c Bandung",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1p14tjOm9GeI_v9-7SL22bpO2MteAdrZu"
       },
       {
         "NO": 79,
-        "NO_KTJ": "",
+        "NO_KTJ": "4.1.28011957",
         "NAMA": "Pdt. Senny Rosiany Korompis",
         "JABATAN": "Biro Wanita",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI JF Lembang Kab. Bandung Barat",
+        "ALAMAT_GEREJA": "Jl. Srikania Raya no 16c Bandung",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1rFxPYiuMo3BezEnR0F3HzPHvcHsbTOvU"
       },
       {
         "NO": 80,
-        "NO_KTJ": "",
+        "NO_KTJ": "4.1.02081989",
         "NAMA": "Pdp. Sanni Simare mare",
         "JABATAN": "Biro Anak & Guru Sekolah Minggu",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Pembantu",
+        "NAMA_GEREJA": "GSPDI Ahmad Yani Cirebon Jl. Ahmad Yani No.31",
+        "ALAMAT_GEREJA": "Kecapi mas raya no.31 Cirebon",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1oQgZBReofkTgtHcG6aS3_kPaQIrLYESW"
       },
       {
         "NO": 81,
-        "NO_KTJ": "",
+        "NO_KTJ": "4.1.08022000",
         "NAMA": "Pdp. Mikhael Mordekhai Massie",
         "JABATAN": "Biro IT & Multimedia",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Pembantu",
+        "NAMA_GEREJA": "GSPDI JF Kenduruan Jl. Kenduruan 91 Cirebon",
+        "ALAMAT_GEREJA": "Jl. Dr. Setiabudi no 19 Cirebon",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1eF3H-QeOKUuzg-awp47ioH8cggSG5uMK"
       },
       {
         "NO": 82,
-        "NO_KTJ": "",
+        "NO_KTJ": "4.1.14011983",
         "NAMA": "Pdt. Haniel Yafia Massie",
         "JABATAN": "Biro Diakonia & Sosial",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "Gspdi Ahmad Yani cirebon",
+        "ALAMAT_GEREJA": "Perumahan Villa kecapi mas jalan kecapi mas raya No 31 cirebon",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1kFZh8IS6wpItvYAIhosiD5pTc4evmqat"
       }
     ]
   },
@@ -946,58 +1089,102 @@
     "member": [
       {
         "NO": 83,
-        "NO_KTJ": "",
+        "NO_KTJ": "5.1.09111950",
+        "NAMA": "Pdt. Frans H.S. Wulur",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Filadelfia Karangmalang",
+        "ALAMAT_GEREJA": "Sragen /a. Karangharjo RT.02/RW.01 Kel.Karangmalang, Kec.Masaran, Kab.Sragen 57282  ",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1ubTaK2LYnPQzFXtFVMdyC-nNpstXPiID"
+      },
+      {
+        "NO": 83,
+        "NO_KTJ": "5.1.26071962",
+        "NAMA": "Pdt. Agus Susanto",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Filadelfia Salatiga",
+        "ALAMAT_GEREJA": "Jagersari III, No.7, Tetep Rt.02/RW.03 Kel.Randuacir, Kec.Argomulyo, Kota Salatiga  50735",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1U_Et48iNp6SQJXgVJNsuyHFUfoRqxEqz"
+      },
+      {
+        "NO": 83,
+        "NO_KTJ": "5.1.07041965",
+        "NAMA": "Pdt. Berurtje Jose Suoth",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Filadelfia Demak",
+        "ALAMAT_GEREJA": " Jl. Kudus 202  Bintoro Demak RT.09/RW.09 Kel.Bintoro, Kec.Demak, Kab.Demak   59511  ",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1pWArS2Ii0o60V3q76xg8sj6LiiY0QND7"
+      },
+      {
+        "NO": 83,
+        "NO_KTJ": "5.1.03051951",
+        "NAMA": "Pdt. Febe Hariningkris Renaningtyas",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Filadelfia Krisak, Wonogiri",
+        "ALAMAT_GEREJA": "Singodutan Rt.03/Rw.01 Kel.Singodutan Kec.Selogiri, Kab.Wonogiri 57652",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1ZQivyUQrQa1VHNHyGQ8LU3H1j4ixwujt"
+      },
+      {
+        "NO": 83,
+        "NO_KTJ": "5.1.07031965",
         "NAMA": "Pdt. Sarah Hetty Sritati",
         "JABATAN": "Ketua",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Filadelfia Kadipiro, Surakarta",
+        "ALAMAT_GEREJA": "Jl. Jayawijaya 17, Gebang  I  Rt.04/Rw.17 Kel.Kadipiro, Kec.Banjarsari, Kota Surakarta 57136  ",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1MJ9Qj8uLO2joWJAV34GzuW6cDCQimuhz"
       },
       {
         "NO": 84,
-        "NO_KTJ": "",
+        "NO_KTJ": "5.1.30051967",
         "NAMA": "Pdt. Danie F. Wulur",
         "JABATAN": "Wakil Ketua",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Filadelfia Suro, Kalibagor, Banyumas",
+        "ALAMAT_GEREJA": "Jl. Siliwangi No.19 Suro Rt.06/Rw.01 Kel.Suro, Kec.Kalibagor, Kab.Banyumas ",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1gy_s8CPZabJRfbaFkI9nc2LowvOxaxsz"
       },
       {
         "NO": 85,
-        "NO_KTJ": "",
+        "NO_KTJ": "5.1.05011980",
         "NAMA": "Pdt. Agung Djumari",
         "JABATAN": "Sekretaris",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Filadelfia Zoe Wonogiri.",
+        "ALAMAT_GEREJA": "Perum Citra Jaya 7 No.117 Jatibedug RT.04/RW.07 Kel.Purworejo, Kec.Wonogiri, Kab.Wonogiri  57615",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1i3BIOa0cnBrOLol28Ezb9paxkBSjWCH8"
       },
       {
         "NO": 86,
-        "NO_KTJ": "",
+        "NO_KTJ": "5.1.07031996",
         "NAMA": "Pdm. Yohanes Kristiawan",
         "JABATAN": "Wakil Sekretaris",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI Filadelfia Kasihan Bantul, Yogyakarta",
+        "ALAMAT_GEREJA": " Jl. Soragan No.28b, Kembang, Kel.Ngestiharjo, Kec.Kasihan, Kab.Bantul – Yogyakarta ",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1DJPB-NoFZEQ7NdV74JREcBqCPWwS6gHO"
       },
       {
         "NO": 87,
-        "NO_KTJ": "",
+        "NO_KTJ": "5.1.16091988",
         "NAMA": "Pdt. Victor Philipus Chandra",
         "JABATAN": "Bendahara",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Filadelfia Bobotsari, Purbalingga.",
+        "ALAMAT_GEREJA": " Kademangan Rt.01/Rw.02  Kel.Majapura, Kec.Bobotsari, Kab.Purbalingga 53353 ",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1zzUtwSFC2ONtGnm_upsRfA9gOhwdHrSW"
       },
       {
         "NO": 88,
@@ -1008,18 +1195,18 @@
         "NAMA_GEREJA": "",
         "ALAMAT_GEREJA": "",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1k-524NuogF7aZBBKHnUhCYhMoOVlfjc-"
       },
       {
         "NO": 89,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Indra Tarigan",
+        "NO_KTJ": "5.1.18101978",
+        "NAMA": "Pdt. Indra Bayu Tarigan",
         "JABATAN": "Biro Pendidikan & Kaderisasi",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Filadelfia Ngringin, Getasan, Semarang",
+        "ALAMAT_GEREJA": " Ngringin RT.02/RW.03  Kel.Batur, Kec.Getasan, Kab.Semarang  50774 ",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1So4qT_lpQVrfZB_1f8FPTNcVuB0EKUWe"
       },
       {
         "NO": 90,
@@ -1034,36 +1221,36 @@
       },
       {
         "NO": 91,
-        "NO_KTJ": "",
+        "NO_KTJ": "5.1.04011971",
         "NAMA": "Pdm. Trivena Mami Suparmi",
         "JABATAN": "Biro Wanita & Anak",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI Filadelfia Bobotsari, Purbalingga.",
+        "ALAMAT_GEREJA": " Kademangan Rt.01/Rw.02  Kel.Majapura, Kec.Bobotsari, Kab.Purbalingga 53353  ",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=14m4kZpplLZXlGdDHiS74q5PeHH133RkI"
       },
       {
         "NO": 92,
-        "NO_KTJ": "",
-        "NAMA": "Pdm. David Sutomo",
+        "NO_KTJ": "5.1.04071975",
+        "NAMA": "Pdm. Dafid Sutomo",
         "JABATAN": "Biro Pemuda & Anak Hamba Tuhan",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Pembantu",
+        "NAMA_GEREJA": "GSPDI Filadelfia Tlatar, Kebonbimo, Boyolali.",
+        "ALAMAT_GEREJA": " Umbulrejo RT.03/RW.01  Kel.Kebonbimo, Kec.Boyolali, Kab.Boyolali   57315  ",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1UsGn1LNmUaLlVZGQomQKc79PcTsB84ZY"
       },
       {
         "NO": 93,
-        "NO_KTJ": "",
+        "NO_KTJ": "5.1.23011964",
         "NAMA": "Pdt. Shinta Veronicha T.",
         "JABATAN": "Biro Diakonia",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Filadelfia Imanuel, Joyotakan, Surakarta.",
+        "ALAMAT_GEREJA": " Joyotakan Rt.04/Rw.05 Kel.Joyotakan, Kec.Serengan, Kota Surakarta 57167 ",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1K_Bzjokt5jQqAzPIIwLY39onXxwDqONm"
       }
     ]
   },
@@ -1073,135 +1260,168 @@
     "member": [
       {
         "NO": 94,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Johanes Naftali",
+        "NO_KTJ": "6.1.20101971",
+        "NAMA": "Pdt. Giato",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI FILADELFIA PAKUNDEN KOTA BLITAR.",
+        "ALAMAT_GEREJA": "Jl.Widas No.19 Pakunden Sukorejo, Kota Blitar. (GEMBALA JEMAAT)",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1-aMWL90mTAD8aBDDkAQGNpxXGyTHQV1J"
+      },
+      {
+        "NO": 94,
+        "NO_KTJ": "6.1.18021956",
+        "NAMA": "Pdt. Herry Pramono",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI FILADELFIA BEDALI.",
+        "ALAMAT_GEREJA": " Jl.dr.Cipto VIII Kapl Pojok RT 07 RW 10 Ds.Bedali, Lawang. (GEMBALA JEMAAT)",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=13LV0WkayBekEFKzdZiT8eW2Zbw1fBxKx"
+      },
+      {
+        "NO": 94,
+        "NO_KTJ": "6.1.05051949",
+        "NAMA": "Pdt. Thomas Edy Susilo",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI FILADELFIA MADIUN.",
+        "ALAMAT_GEREJA": "Jl.Merak Selatan No.4 Kota Madiun",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1loq3ERsdKND7SElE5terTfHI4olf1D72"
+      },
+      {
+        "NO": 94,
+        "NO_KTJ": "6.1.07101972",
+        "NAMA": "Pdt. Johanes Via Naftali Pattipeiluhu",
         "JABATAN": "Ketua",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI FILADELFIA JOMBANG",
+        "ALAMAT_GEREJA": "Jl.Buya Hamka No.5 Jombang",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1rgJkwn5osjf6EyhTRiIpLlXkR243U0bA"
       },
       {
         "NO": 95,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Abetnego",
+        "NO_KTJ": "6.1.05061972",
+        "NAMA": "Pdt. Abet Nego",
         "JABATAN": "Wakil Ketua",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI FILADELFIA MLOSO",
+        "ALAMAT_GEREJA": " Dsn.Mloso RT 004 RW 006, Ds.Sidolaju, Kec.Widodaren, Kab.Ngawi.",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1Bi44KG7XM7U8EUlGnwy6eWJkK0F9nZbP"
       },
       {
         "NO": 96,
-        "NO_KTJ": "",
+        "NO_KTJ": "6.1.14011982",
         "NAMA": "Pdt. Piter Christop Sarumaha",
         "JABATAN": "Sekretaris",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI FILADELFIA JAGIR, SURABAYA.",
+        "ALAMAT_GEREJA": "Jl. Jagir Sidomukti gg.IV no. 39A (GEMBALA JEMAAT)",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1kfnrqlTeMJ_oVVz8MxpVwxN8gi_y-iq1"
       },
       {
         "NO": 97,
-        "NO_KTJ": "",
+        "NO_KTJ": "6.1.28081968",
         "NAMA": "Pdt. David Kirojan",
         "JABATAN": "Wakil Sekretaris",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI MALANG KOTA.",
+        "ALAMAT_GEREJA": "Jl.Kawi Kios 34-A Malang",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1mjlCx05B7Ayiq6mray4aP_JaWRriZ5dD"
       },
       {
         "NO": 98,
-        "NO_KTJ": "",
+        "NO_KTJ": "6.1.03121970",
         "NAMA": "Pdt. Djems Djemy Kaloh",
         "JABATAN": "Bendahara",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI FILADELFIA NGROMBOT, PATIANROWO.",
+        "ALAMAT_GEREJA": "Jl.PG Lestari No.14 RT 01/RW 01 Desa Ngrombot, Kec.Patianrowo",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=108zUinWtnn-pkhsUn-Gp58zWDDe1Fu2T"
       },
       {
         "NO": 99,
-        "NO_KTJ": "",
+        "NO_KTJ": "6.1.21041978",
         "NAMA": "Pdt. Donny Kaleb Setiawan",
         "JABATAN": "Wakil Bendahara",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI FILADELFIA NGANJUK.",
+        "ALAMAT_GEREJA": "Jl.Megantoro No.31 Nganjuk. (GEMBALA JEMAAT).",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=17FIZpmWthgjSuN4hrqxI5mhgxbZJ-k3K"
       },
       {
         "NO": 100,
-        "NO_KTJ": "",
+        "NO_KTJ": "6.1.18031982",
         "NAMA": "Pdt. Rionald RP. Raintung",
         "JABATAN": "Biro Misi & Penanaman Gereja",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta ",
+        "NAMA_GEREJA": "GSPDI House of Filadelfia Tabanan",
+        "ALAMAT_GEREJA": "Bali",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1kL6AYgaC-Gf6B32tf1dkS0EraEVRd09s"
       },
       {
         "NO": 101,
-        "NO_KTJ": "",
+        "NO_KTJ": "6.1.28041992",
         "NAMA": "Pdp. Yusuf Permata Mega",
         "JABATAN": "Biro Doa, Ibadah, & Multimedia",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Pembantu",
+        "NAMA_GEREJA": "GSPDI FILADELFIA KEDUNGGALAR.",
+        "ALAMAT_GEREJA": "Dsn.Urung-urung RT 001 RW 005 Ds.Kedunggalar, Kab.Ngawi.",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1XCVQOzf5AJou-Fb99Vk3XL8UVghcNeY9"
       },
       {
         "NO": 102,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Debora DHEK",
+        "NO_KTJ": "6.1.30101968",
+        "NAMA": "Pdt. Debora Dwi Herlambang Endra Kustinaningsih",
         "JABATAN": "Biro Sosial & Diakonia",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI FILADELFIA MLOSO",
+        "ALAMAT_GEREJA": " Dsn.Mloso RT 004 RW 006, Ds.Sidolaju, Kec.Widodaren, Kab.Ngawi.",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1gQqCM2UOBNIYqpoDZ7C3PuOFqXqw0QNR"
       },
       {
         "NO": 103,
-        "NO_KTJ": "",
+        "NO_KTJ": "6.1.24081978",
         "NAMA": "Pdm. Sonya Schramm",
         "JABATAN": "Biro Anak & Guru Sekolah Minggu",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI FILADELFIA MOJOWARNO.",
+        "ALAMAT_GEREJA": "Jl.Anjasmoro No.8 Mojowangi - Mojowarno, Jombang.",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1HTPzjOiroL-YUJviYK8z2VKnFb1Orj29"
       },
       {
         "NO": 104,
-        "NO_KTJ": "",
-        "NAMA": "Pdm. Louis William Schramm",
+        "NO_KTJ": "6.1.26091988",
+        "NAMA": "Pdm. Luise Willem Schramm",
         "JABATAN": "Biro Pemuda & Anak Hamba Tuhan",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Pembantu",
+        "NAMA_GEREJA": "GSPDI FILADELFIA KARMEL MOJOAGUNG",
+        "ALAMAT_GEREJA": "Jl.Raya Mojoagung 191 Kademangan. Mojoagung.",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1EAhd_qY6SLnD47j0c09jnuZaBaA27Emx"
       },
       {
         "NO": 105,
-        "NO_KTJ": "",
+        "NO_KTJ": "6.1.18111969",
         "NAMA": "Pdm. Vivy Nanlohy",
         "JABATAN": "Biro Wanita",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI FILADELFIA LAWANG",
+        "ALAMAT_GEREJA": "Jl.Argopuro Gg.Manyar No.1 Lawang. (GEMBALA JEMAAT)",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1eIqLRiLMd2DCq92tqstVD8KNL-UAQL2K"
       }
     ]
   },
@@ -1211,6 +1431,28 @@
     "member": [
       {
         "NO": 106,
+        "NO_KTJ": "7.1.09091955",
+        "NAMA": "Pdt. Daud Pongsalu",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Salu Baruppu",
+        "ALAMAT_GEREJA": " Salu Baruppu', Kel. Baruppu' Selatan, Kec. Baruppu' Kab. Toraja Utara",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1883U_myGqrlhoWrahL8t90ewGVD8ID_p"
+      },
+      {
+        "NO": 106,
+        "NO_KTJ": "7.1.15081972",
+        "NAMA": "Pdt. Andreas Mparesi",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Torue.",
+        "ALAMAT_GEREJA": "Jln. Trans Sulawesi Dusun III, RT/RW 010/005, Desa Torue, Kab. Parigi Moutong",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1pPvnG6sAvBWImuMEnQbQD-05cj_a_fTI"
+      },
+      {
+        "NO": 106,
         "NO_KTJ": "7.1.24071954",
         "NAMA": "Pdt. Magda Lenny da Costa",
         "JABATAN": "Ketua",
@@ -1218,7 +1460,7 @@
         "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Makassar",
         "ALAMAT_GEREJA": "Jl. Vetran Utara, Lr. 45, No. 19 Makassa4",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=10hjNVVQm6oQIrLEQ92jPuAnFVTsnyU3W"
       },
       {
         "NO": 107,
@@ -1229,7 +1471,7 @@
         "NAMA_GEREJA": "Gembala Jemaat di GSPDI Jemaat Filadelfia Sulewana",
         "ALAMAT_GEREJA": "Jl. PT. Poso Energy, Desa Sulewana, Kec. Pamona Utara, Kab. Poso.",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1bLMJZpYR8tj43jj8IV5KR1o24RIYquvh"
       },
       {
         "NO": 108,
@@ -1240,7 +1482,7 @@
         "NAMA_GEREJA": "Gembala Jemaat di GSPDI Jemaat Filadelfia Rantetayo",
         "ALAMAT_GEREJA": "Supate, Kel. Padangiring, Kec. Rantetayo, Kab. Tana Toraja",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1Gz0jOuWQQgTM3nksugP3Koif0zNxdBfr"
       },
       {
         "NO": 109,
@@ -1251,7 +1493,7 @@
         "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Hubdam Makassar",
         "ALAMAT_GEREJA": "Jl. Cendrawasih No. 420 ( Komp. Hubdam XIV/HSN)",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1Do0yoNe3S35zblrRa9wU2N0Yxsn1OLxF"
       },
       {
         "NO": 110,
@@ -1262,7 +1504,7 @@
         "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Tondok. Burake, Padangiring",
         "ALAMAT_GEREJA": "Kec. Rantetayo, Kab. Tana Toraja",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1GfAkK8kvD_09p89DxUmLeZ1_D9ICqcPJ"
       },
       {
         "NO": 111,
@@ -1273,29 +1515,29 @@
         "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Owini",
         "ALAMAT_GEREJA": "Desa Owini, Kec. Pamona Barat, Kab. Poso.",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1WaaI6p-cvjhBqjOXOqraIU9gp6xm5m4M"
       },
       {
         "NO": 112,
-        "NO_KTJ": "",
+        "NO_KTJ": "7.1.15011985",
         "NAMA": "Pdt. Esky Danielle Tonto'u",
         "JABATAN": "Biro Pemuda & Anak Hamba Tuhan",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Tendeadongi",
+        "ALAMAT_GEREJA": "Jl. Trans Sulawesi, Kel. Tendeadongi, Kab. Poso.",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1-02hoUgwZAGUVO0MaXKkYbI_C7rxycgp"
       },
       {
         "NO": 113,
-        "NO_KTJ": "",
+        "NO_KTJ": "7.1.15011974",
         "NAMA": "Pdm. Missiyon Towelo",
         "JABATAN": "Biro WAnita",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Torue",
+        "ALAMAT_GEREJA": "Jln. Trans Sulawesi, Dusun III, RT/RW 010/005, Desa Torue, Kabupaten Parigi Moutong",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1o29L077BaZbzLae82M5fwTlty1IikYQd"
       },
       {
         "NO": 114,
@@ -1306,7 +1548,7 @@
         "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Maholo",
         "ALAMAT_GEREJA": "Desa Maholo, Kec. Lore Timur, Kab. Poso.",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1knIEU6i1edLDJAVcUHMNWqh8TSI33QS2"
       },
       {
         "NO": 115,
@@ -1317,7 +1559,7 @@
         "NAMA_GEREJA": "GSPDI Jemaat Filadelfia Hubdam Makassar",
         "ALAMAT_GEREJA": "Jl. Cendrawasih No. 420 (Komp. Hubdam XIV/HSN)",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1ciF3BpfG6gi1sJ4Xv6-LNcwi315eTAJw"
       }
     ]
   },
@@ -1327,6 +1569,39 @@
     "member": [
       {
         "NO": 116,
+        "NO_KTJ": "8.1.15121952",
+        "NAMA": "Pdt. Wiem Kumayas, MAP",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "Gspdi Filadelfia Sea Mitra",
+        "ALAMAT_GEREJA": "",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1NAgj8HYvU8dmDGGyNqP1UPW_TMKKISCx"
+      },
+      {
+        "NO": 116,
+        "NO_KTJ": "8.1.01021951",
+        "NAMA": "Pdt.Johny Abraham Legoh",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI FILADELFIA SONDER",
+        "ALAMAT_GEREJA": "KOLONGAN ATAS 2 JAGA 1 SONDER",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1c3Ea5NmSdGDiRFGCyq9kiXqpJZDpzB7_"
+      },
+      {
+        "NO": 116,
+        "NO_KTJ": "",
+        "NAMA": "Drs. Robert Kandou, M.Si",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "",
+        "ALAMAT_GEREJA": "",
+        "INSTAGRAM": "",
+        "URL_FOTO": ""
+      },
+      {
+        "NO": 116,
         "NO_KTJ": "8.1.07051960",
         "NAMA": "Pdt. Merryam Jone Anibala",
         "JABATAN": "Ketua",
@@ -1334,18 +1609,18 @@
         "NAMA_GEREJA": "GSPDI FILADELFIA TOMOHON",
         "ALAMAT_GEREJA": "MATANI 1 LINGK 3 TOMOHON TENGAH KOTA TOMOHON",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1fiAbBL-VtAVZVyvwYPebqJEE7d8nf1Yz"
       },
       {
         "NO": 117,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Feckie Mawuntu",
+        "NO_KTJ": "8.1.26091968",
+        "NAMA": "Pdt. David Oldy Rawung",
         "JABATAN": "Wakil Ketua Penatalayan",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA WATULANEY AMIAN",
+        "ALAMAT_GEREJA": " WATULANEY, DESA WATULANEY AMIAN JAGA 2 KEC.LEMBEAN TIMUR KAB. MINAHASA PROV. SULAWESI UTARA.",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1lQGqBqnFjphOeEZbiLh6p4-qlPA9Bugr"
       },
       {
         "NO": 118,
@@ -1356,29 +1631,29 @@
         "NAMA_GEREJA": "Gspdi Filadelfia Blongko",
         "ALAMAT_GEREJA": "Jaga 2 kecamatan sinonsayang minsel",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=18Jb8J9z-3yiMoWQ8s0J6t8fkcOziaC5P"
       },
       {
         "NO": 119,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Ivan Heydemans",
-        "JABATAN": "Sekretaris",
+        "NO_KTJ": "8.1.08071978",
+        "NAMA": "Pdt. Hizkia Ivert Sarempaa",
+        "JABATAN": "Wakil Ketua Pendidikan & Misi",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "Gereja Sidang Pantekosta Di Indonesia Jemaat Filadelfia Watutumou",
+        "ALAMAT_GEREJA": "Desa Watutumou Jaga XI Kecamatan Kalawat-Kabupaten Minahasa Utara",
         "INSTAGRAM": "",
         "URL_FOTO": ""
       },
       {
         "NO": 120,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Hizkia Ivert Sarempaa",
+        "NO_KTJ": "8.1.05101957",
+        "NAMA": "Pdt. Robby H. Karamoy",
         "JABATAN": "Wakil Ketua Pengembalaan",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "Gspdi Filadelfia Blongko",
+        "ALAMAT_GEREJA": "jaga 2 kecamatan sinonsayang minsel",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1rdCElbYeUSMztQ2Pnt4zaEjbZwg5rL3P"
       },
       {
         "NO": 121,
@@ -1389,29 +1664,29 @@
         "NAMA_GEREJA": "GSPDI FILADELFIA IMMANUEL KAWANGKOAN",
         "ALAMAT_GEREJA": "",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1LOdcszw4s6-pjD8SZB4uVPgSX7t5uReB"
       },
       {
-        "NO": 122,
-        "NO_KTJ": "8.1.26091968",
-        "NAMA": "Pdt.David Oldy Rawung",
-        "JABATAN": "Wakil Ketua Verifikasi & Aset",
+        "NO": 121,
+        "NO_KTJ": "8.1.05111949",
+        "NAMA": "Pdt. Ventje Onibala",
+        "JABATAN": "Wakil Ketua Urusan Verifikasi Aset & Etika Pelayanan",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA WATULANEY",
-        "ALAMAT_GEREJA": "AMIAN - WATULANEY, DESA WATULANEY AMIAN JAGA 2 KEC.LEMBEAN TIMUR KAB. MINAHASA PROV. SULAWESI UTARA.",
+        "NAMA_GEREJA": "GSPDI Filadelfia Lalump",
+        "ALAMAT_GEREJA": "Jaga I, Kecamatan Motoling",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1rdCElbYeUSMztQ2Pnt4zaEjbZwg5rL3P"
       },
       {
         "NO": 123,
         "NO_KTJ": "",
-        "NAMA": "Pdt. Herman Lius",
+        "NAMA": "Pdt. Yahya Herman Liud",
         "JABATAN": "Sekretaris",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "Gereja Sidang Pantekosta Di Indonesia Jemaat Filadelfia Watutumou",
+        "ALAMAT_GEREJA": "Desa Watutumou Jaga XI Kecamatan Kalawat-Kabupaten Minahasa Utara",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1rdCElbYeUSMztQ2Pnt4zaEjbZwg5rL3P"
       },
       {
         "NO": 124,
@@ -1422,7 +1697,7 @@
         "NAMA_GEREJA": "GSPDI Filadelfia Karombasan Manado",
         "ALAMAT_GEREJA": "Manado",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=16pgJspjRfCHd2Ijrid_p5737yUNL3EVa"
       },
       {
         "NO": 125,
@@ -1455,7 +1730,7 @@
         "NAMA_GEREJA": "Gspdi Filadelfia Vineyard Perkamil",
         "ALAMAT_GEREJA": "Jalan manguni raya no 105 perkamil lingkungan 4 manado",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1-ubZaEVL6y7i0Id00_1PcpMQGcw3ntEx"
       },
       {
         "NO": 128,
@@ -1466,29 +1741,29 @@
         "NAMA_GEREJA": "Gspdi Filadelfia Perum Maesa Unima",
         "ALAMAT_GEREJA": "",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1joOnxbMf_mH__N8bPIJhkHIzfLYAaf1s"
       },
       {
         "NO": 129,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Irene D. Lesar",
+        "NO_KTJ": "8.1.05101975",
+        "NAMA": "Pdt. Irenne D. Lesar",
         "JABATAN": "Biro Wanita",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
+        "NAMA_GEREJA": "Gspdi Filadelfia Malalayang 1 lingkungan 5",
         "ALAMAT_GEREJA": "",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1uyDpjVTSkV7E6BcxM25MZbsy64FZ_4rW"
       },
       {
         "NO": 130,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Femi Poluan",
+        "NO_KTJ": "8.1.09021958",
+        "NAMA": "Pdt. Femmy K.Poluan",
         "JABATAN": "Biro Anak & Guru Sekolah Minggu",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "Gspdi Filadelfia Lalumpe",
+        "ALAMAT_GEREJA": "Kecamatan Motoling Kabupaten Minsel SULUT",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1HO0JXj2Xv5kILIFnwX35CQocKcLFu6Zw"
       },
       {
         "NO": 131,
@@ -1532,18 +1807,18 @@
         "NAMA_GEREJA": "Gspdi Filadelfia Wolaang",
         "ALAMAT_GEREJA": "Jaga 6 Langowan Timur",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1NAgj8HYvU8dmDGGyNqP1UPW_TMKKISCx"
       },
       {
         "NO": 135,
-        "NO_KTJ": "",
-        "NAMA": "Ferry Rondonuwu",
+        "NO_KTJ": "8.1.04081980",
+        "NAMA": "Hesky Jefry Maleke, S.Pd.K",
         "JABATAN": "Biro Hukum & Peraturan Gereja",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI.Chruch Of Imanuel",
+        "ALAMAT_GEREJA": "Kota Bitung- Sulawesi Utara",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1bsrNjAmHbQfFA1jwGcTGc6e6CufcumNA"
       }
     ]
   },
@@ -1553,6 +1828,17 @@
     "member": [
       {
         "NO": 137,
+        "NO_KTJ": "10.1.06011969",
+        "NAMA": "Purwanto Darmono",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI F SPB",
+        "ALAMAT_GEREJA": "DUSUN ARGA RT/RW. 020/008 DESA BUKIT MULYA KEC. SUBAH KAB. SAMBAS KALBAR",
+        "INSTAGRAM": "",
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1Yup8QYKoFI1Om4VxRViDSR5lTwKZDlDK"
+      },
+      {
+        "NO": 137,
         "NO_KTJ": "10.1.13101949",
         "NAMA": "Pdt. Anthon Arman",
         "JABATAN": "Ketua",
@@ -1560,7 +1846,7 @@
         "NAMA_GEREJA": "GSPDI F KAYU TANAM",
         "ALAMAT_GEREJA": "DUSUN KAYU TANAM RT/RW. 001/001DESA KAYU TANAM KEC. MANDOR KAB. LANDAK KALBAR",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1VMoIlirOlOJtUFKrSLQbQ6BjscwDL2tf"
       },
       {
         "NO": 138,
@@ -1571,117 +1857,117 @@
         "NAMA_GEREJA": "GSPDI FILADELFIA PAK LAHENG",
         "ALAMAT_GEREJA": "",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1iQfsdphj2kmB0Z7mpnGY9hwpnD3WxPQV"
       },
       {
         "NO": 139,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Aneke Sagai",
+        "NO_KTJ": "10.1.24011970",
+        "NAMA": "Pdt. Johanis Janni Tombuku",
         "JABATAN": "Sekretaris",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Filadelfia Bengkayang ",
         "ALAMAT_GEREJA": "",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1Qvru6HsfmBZwSkN5wf-C7pj_X6O81bIZ"
       },
       {
         "NO": 140,
-        "NO_KTJ": "",
+        "NO_KTJ": "10.1.16081977",
         "NAMA": "Pdt. Ketrina",
         "JABATAN": "Bendahara",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI FILADELFIA SETIA BANGUN",
+        "ALAMAT_GEREJA": "Jl. Pendidikan RT/RW. 03/01 Dusun Setia Bangun Desa Sinar Tebudak Kec. Tujuh Belas Kab. Bengkayang Kalbar",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1YORVEXTAMMjE0DTIDav63VRoxSMiiLVG"
       },
       {
         "NO": 141,
-        "NO_KTJ": "",
+        "NO_KTJ": "9.1.10051982",
         "NAMA": "Pdm. Maleaki Ladung",
         "JABATAN": "Biro Pemuda & Anak Hamba Tuhan",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI F PELANGOR",
+        "ALAMAT_GEREJA": "DUSUN PELANGGOR RT/RW. 003/002 DESA KALON, KEC. SELUAS KAB. BENGKAYANG KALBAR",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=16O9Zf89hE9nSIG4Dwc8Efd6yxPXA7brl"
       },
       {
         "NO": 142,
-        "NO_KTJ": "",
+        "NO_KTJ": "10.1.15041973",
         "NAMA": "Pdt. Martina",
         "JABATAN": "Biro Doa",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "Gspdi Filadelfia Sukacita Nanga Pinoh kabupaten Melawi.",
+        "ALAMAT_GEREJA": "Kalimantan Barat",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1OV3FoxsMrQcHJBRIHQH4oDqWpTAsOMxN"
       },
       {
         "NO": 143,
-        "NO_KTJ": "",
+        "NO_KTJ": "10.1.08081970",
         "NAMA": "Pdt. Jefri Mokodompit",
         "JABATAN": "Biro Anak & Guru Sekolah Minggu",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI F ENTIKONG",
+        "ALAMAT_GEREJA": "DUSUN SANTOS RT/RW. 006/002 DESA ENTIKONG KEC. ENTIKONG KAB. SANGGAU KALBAR",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1VJ64QFrnj9Bpor6oG-5nNpdG3FJfdpIO"
       },
       {
         "NO": 144,
-        "NO_KTJ": "",
+        "NO_KTJ": "10.1.26071981",
         "NAMA": "Pdt. Julmawardin Zebua",
         "JABATAN": "Biro Pendidikan",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI F WIRATA III",
+        "ALAMAT_GEREJA": "DUSUN PELANGOR RT/RW. 002/002 DESA KALON KEC. SELUAS KAB. BENGKAYANG KALBAR",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=12PciKmVCcW51S9cwqKuJp5O9QxptshFb"
       },
       {
         "NO": 145,
         "NO_KTJ": "",
         "NAMA": "Pdm. Yulius S. Pambudi",
         "JABATAN": "Biro Penanaman Gereja",
-        "STATUS": "Pendeta",
+        "STATUS": "Pendeta Muda",
         "NAMA_GEREJA": "",
         "ALAMAT_GEREJA": "",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1JY0hRCSGM8x6WMYU44_TEZNgMuBcAX22"
       },
       {
         "NO": 146,
-        "NO_KTJ": "",
+        "NO_KTJ": "9.1.13061985",
         "NAMA": "Pdp. Adrianus Minen",
         "JABATAN": "Biro Penanaman Gereja",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI F KAYU TANAM",
+        "ALAMAT_GEREJA": "DUSUN KAYU TANAM RT/RW. 001/001 DESA KAYU TANAM KEC. MANDOR KAB. LANDAK KALBAR",
         "INSTAGRAM": "",
         "URL_FOTO": ""
       },
       {
         "NO": 147,
-        "NO_KTJ": "",
+        "NO_KTJ": "10.1.28081957",
         "NAMA": "Pdm. Koestina",
         "JABATAN": "Biro Wanita",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI F KAYU TANAM",
+        "ALAMAT_GEREJA": "DUSUN KAYU TANAM RT/RW. 001/001 DESA KAYU TANAM KEC. MANDOR KAB. LANDAK KALBAR",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1R7qmrHK-VO5MJEGAdMioywhS64KrFvXX"
       },
       {
         "NO": 148,
-        "NO_KTJ": "",
+        "NO_KTJ": "10.01.15031976",
         "NAMA": "Pdm.Yusak Hadi Prayitno",
         "JABATAN": "Biro Penatalayanan",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Muda",
+        "NAMA_GEREJA": "GSPDI Filadelfia Setia Bangun",
+        "ALAMAT_GEREJA": "Jl. Pendidikan RT/RW. 03/01 Dusun Setia Bangun, Desa Sinar Tebudak, Kec. Tujuh Belas Kab. Bengkayang Kalbar",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=12RNWa3VJxfr4hO38QUGB_JEOi-zoaNOG"
       }
     ]
   },
@@ -1691,25 +1977,25 @@
     "member": [
       {
         "NO": 149,
-        "NO_KTJ": "",
+        "NO_KTJ": "10.1.02061974",
         "NAMA": "Pdt. Daniel Duma Tandi",
         "JABATAN": "Ketua",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Filadelfia Sei lekop",
+        "ALAMAT_GEREJA": "Kav. Sei lekop blk i no 49-53 Rt 04 Rw 13 kel. Sei lekop kec.Sagulung kota Batam Kepri",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1QLc7OH-E-U4IZAUZYWCO_pDQBZc2tLkG"
       },
       {
         "NO": 150,
-        "NO_KTJ": "",
+        "NO_KTJ": "10.1.15031977",
         "NAMA": "Pdt. Manahan Simanjuntak",
         "JABATAN": "Sekretaris",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI Kabil-Indah",
+        "ALAMAT_GEREJA": "Batam Kavling Kabil Indah Blok A6. No. 211 Rt 03/ Rw 03 Kelurahan Kabil Kecamatan Nongsa  Kota Batam Kepulauan Riau",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=14c0CpM_dJZMVig96DUtfAmnAH2iol1-A"
       },
       {
         "NO": 151,
@@ -1746,53 +2032,53 @@
       },
       {
         "NO": 154,
-        "NO_KTJ": "",
+        "NO_KTJ": "10.1.10041973",
         "NAMA": "Pdt. Julius Sutarwi",
         "JABATAN": "Biro Pemuda & Anak Hamba Tuhan",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
+        "NAMA_GEREJA": "Gspdi filadelfia TJ UMA",
         "ALAMAT_GEREJA": "",
         "INSTAGRAM": "",
         "URL_FOTO": ""
       },
       {
         "NO": 155,
-        "NO_KTJ": "",
+        "NO_KTJ": "10.1.10021985",
         "NAMA": "Pdp. Sabatani Waruwu",
         "JABATAN": "Biro Diakonia & Sosial",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "STATUS": "Pendeta Pembantu",
+        "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA BALOI KOLAM- BATAM",
+        "ALAMAT_GEREJA": "Baloi Kolam Blok B No 123b, RT 10/ RW 16,  Kel. Sei Panas, Kec. Batam Kota, Kota Batam, Kepri.",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1dWMcWiKHDbhnlUMhCvOMPARxmw_Glqrm"
       }
     ]
   },
   {
-    "majelis": "PAPUA, PAPUA BARAT, MALUKU, MALUKU UTARA",
-    "majelisDisplay": "Papua, Papua Barat, Maluku, Maluku Utara",
+    "majelis": "PAPUA RAYA, MALUKU",
+    "majelisDisplay": "Papua Raya, Maluku",
     "member": [
       {
         "NO": 156,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Reynold Tuwo",
+        "NO_KTJ": "11.1.05101963",
+        "NAMA": "Pdt. Noldy Reynold Tuwo",
         "JABATAN": "Ketua",
         "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
+        "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA APOSTOLIK",
+        "ALAMAT_GEREJA": "JL NURI KELURAHAN MALASOM DISTRIK AIMAS KABUPATEN SORONG - PAPUA BARAT",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1z8V-Wgwq6_AxpSOTJV6Gw-kvbitaXNFl"
       },
       {
         "NO": 157,
         "NO_KTJ": "11.1.01101982",
-        "NAMA": "Pdt. Harold Manoppo",
+        "NAMA": "Pdt. Harold J. Manoppo",
         "JABATAN": "Sekretaris",
         "STATUS": "Pendeta",
         "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA BLESSING MINISTRY",
         "ALAMAT_GEREJA": "JL. MALINDA X LORONG 2 KEL. SAWAGUMU DISTRIK SORONG UTARA KOTA SORONG - PAPUA BARAT",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1kw7zwx_l54VgJL8F4T_4fJx-Wz_Aybj-"
       },
       {
         "NO": 158,
@@ -1803,18 +2089,18 @@
         "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA BETH EDEN",
         "ALAMAT_GEREJA": "JL. ARIES VICTORY KM. 10 KELURAHAN KLADUFU DISTRIK SORONG TIMUR KOTA SORONG - PAPUA BARAT",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1iKo_4l7AOOmH1rHK-Hhl8gCVcG4KYndh"
       },
       {
         "NO": 159,
         "NO_KTJ": "11.1.08071974",
-        "NAMA": "Pdt. Johny Warouw",
+        "NAMA": "Pdt. Johny S. Warouw",
         "JABATAN": "Biro Pendidikan & Pengajaran",
         "STATUS": "Pendeta",
         "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA SALT AIMAS",
         "ALAMAT_GEREJA": " JL. TOMAT RT/RW 001/004 KELURAHAN MALAWELE AIMAS KABUPATEN SORONG - PAPUA BARAT",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1VY2v5cLw6Pp-wXvfNeNQRsGP-m5MjzmK"
       },
       {
         "NO": 160,
@@ -1825,18 +2111,18 @@
         "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA KRISTUS TUHAN",
         "ALAMAT_GEREJA": "JL. FLAMBOYAN KEL. KLASULUK DISTRIK MARIAT KABUPATEN SORONG - PAPUA BARAT",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1z00bLcydmv5OI1TXjFLMROA60ckYsa0v"
       },
       {
         "NO": 161,
         "NO_KTJ": "11.1.12081964",
-        "NAMA": "Pdm. Agnes Rumbajan",
+        "NAMA": "Pdm. Agnes Rumbajan Manoppo",
         "JABATAN": "Biro Anak & Guru Sekolah Minggu",
-        "STATUS": "Pendeta",
+        "STATUS": "Pendeta Muda",
         "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA MAWAR SARON CONGREGATION",
         "ALAMAT_GEREJA": "JL. SELAT ARAFURU KM. 7 KEL. MALAINGKEDI DISTRIK MALAIMSIMSA KOTA SORONG - PAPUA BARAT",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=19RCU4JzZw3xvQZjsoJ3xq74Qci5Op9J1"
       },
       {
         "NO": 162,
@@ -1847,7 +2133,7 @@
         "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA FOCUS ON CHRIST",
         "ALAMAT_GEREJA": "JL. KLAMONO KM. 24 KABUPATEN SORONG - PAPUA BARAT",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1VPL_DBW0QWLxyxjX-aAcDrv5-gYZ1it0"
       },
       {
         "NO": 163,
@@ -1858,7 +2144,7 @@
         "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA MANNA SORGAWI",
         "ALAMAT_GEREJA": "JLN. MALIBELA KM. 11,5 KOTA SORONG - PAPUA BARAT",
         "INSTAGRAM": "",
-        "URL_FOTO": ""
+        "URL_FOTO": "https://drive.google.com/uc?export=view&id=1EDhYLtE2rrHnJb56SEHEmmtqJuYjpnb4"
       },
       {
         "NO": 164,
@@ -1941,17 +2227,6 @@
         "NO": 171,
         "NO_KTJ": "",
         "NAMA": "Pdt. Ivert Sarempaa",
-        "JABATAN": "Penginjilan",
-        "STATUS": "Pendeta",
-        "NAMA_GEREJA": "",
-        "ALAMAT_GEREJA": "",
-        "INSTAGRAM": "",
-        "URL_FOTO": ""
-      },
-      {
-        "NO": 172,
-        "NO_KTJ": "",
-        "NAMA": "Pdt. Albert Samangun",
         "JABATAN": "Penginjilan",
         "STATUS": "Pendeta",
         "NAMA_GEREJA": "",
@@ -2104,12 +2379,56 @@
       },
       {
         "NO": 186,
-        "NO_KTJ": "",
+        "NO_KTJ": "11.1.22041989",
         "NAMA": "Pdm. William Schramm",
         "JABATAN": "IT & Multimedia",
         "STATUS": "Pendeta",
         "NAMA_GEREJA": "",
         "ALAMAT_GEREJA": "",
+        "INSTAGRAM": "",
+        "URL_FOTO": ""
+      },
+      {
+        "NO": 187,
+        "NO_KTJ": "11.1.25011950",
+        "NAMA": "Pdt. Marinus Kbarek Manoppo",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA MAWAR SARON CONGREGATION",
+        "ALAMAT_GEREJA": " JL. SELAT ARAFURU KM. 7 KEL. MALAINGKEDI DISTRIK MALAIMSIMSA KOTA SORONG - PAPUA BARAT",
+        "INSTAGRAM": "",
+        "URL_FOTO": ""
+      },
+      {
+        "NO": 188,
+        "NO_KTJ": "11.1.12091977",
+        "NAMA": "Pdt. Serfie Bernard Liando",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA THE POWER OF GOD",
+        "ALAMAT_GEREJA": "JL. BASUKI RAHMAT KM. 11,5 KOTA SORONG - PAPUA BARAT",
+        "INSTAGRAM": "",
+        "URL_FOTO": ""
+      },
+      {
+        "NO": 189,
+        "NO_KTJ": "11.1.10091972",
+        "NAMA": "Pdt. Julius Tonapa",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA KOTARAJA",
+        "ALAMAT_GEREJA": "JL. KOTARAJA GRAND BELAKANG KANTOR KEHUTANAN JAYAPURA - PAPUA",
+        "INSTAGRAM": "",
+        "URL_FOTO": ""
+      },
+      {
+        "NO": 190,
+        "NO_KTJ": "11.1.14101974",
+        "NAMA": "Pdt. Benny Masambe",
+        "JABATAN": "Penasehat",
+        "STATUS": "Pendeta",
+        "NAMA_GEREJA": "GSPDI JEMAAT FILADELFIA KIMI",
+        "ALAMAT_GEREJA": " JL JALUR 2 KALI SANOBA RT 06 KAMPUNG SANOBA KABUPATEN NABIRE - PAPUA",
         "INSTAGRAM": "",
         "URL_FOTO": ""
       }
