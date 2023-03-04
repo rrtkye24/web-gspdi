@@ -355,7 +355,7 @@
   },
   {
     "majelis": "SUMATRA UTARA & ACEH",
-    "majelisDisplay": "Sumatra Utara & Aceh",
+    "majelisDisplay": "Daerah Sumatra Utara & Aceh",
 
     "member": [
       {
@@ -494,7 +494,7 @@
   },
   {
     "majelis": "RIAU, JAMBI, & SUMATERA BARAT",
-    "majelisDisplay": "Riau, Jambi, & Sumatera Barat",
+    "majelisDisplay": "Daerah Riau, Jambi, & Sumatera Barat",
     "member": [
       {
         "NO": 41,
@@ -676,7 +676,7 @@
   },
   {
     "majelis": "DKI, LAMPUNG, BANTEN, BABEL",
-    "majelisDisplay": "DKI, Lampung, Banten, Babel",
+    "majelisDisplay": "Daerah DKI, Lampung, Banten, Babel",
     "member": [
       {
         "NO": 55,
@@ -903,7 +903,7 @@
   },
   {
     "majelis": "JAWA BARAT",
-    "majelisDisplay": "Jawa Barat",
+    "majelisDisplay": "Daerah Jawa Barat",
     "member": [
       {
         "NO": 70,
@@ -1085,7 +1085,7 @@
   },
   {
     "majelis": "JAWA TENGAH & YOGYAKARTA",
-    "majelisDisplay": "Jawa Tengah & Yogyakarta",
+    "majelisDisplay": "Daerah Jawa Tengah & Yogyakarta",
     "member": [
       {
         "NO": 83,
@@ -1256,7 +1256,7 @@
   },
   {
     "majelis": "JAWA TIMUR & BALI",
-    "majelisDisplay": "Jawa Timur & Bali",
+    "majelisDisplay": "Daerah Jawa Timur & Bali",
     "member": [
       {
         "NO": 94,
@@ -1427,7 +1427,7 @@
   },
   {
     "majelis": "SULAWESI SELATAN & SULAWESI TENGAH",
-    "majelisDisplay": "Sulawesi Selatan & Sulawesi Tengah",
+    "majelisDisplay": "Daerah Sulawesi Selatan & Sulawesi Tengah",
     "member": [
       {
         "NO": 106,
@@ -1565,7 +1565,7 @@
   },
   {
     "majelis": "SULAWESI UTARA",
-    "majelisDisplay": "Sulawesi Utara",
+    "majelisDisplay": "Daerah Sulawesi Utara",
     "member": [
       {
         "NO": 116,
@@ -1824,7 +1824,7 @@
   },
   {
     "majelis": "KALIMANTAN",
-    "majelisDisplay": "Kalimantan",
+    "majelisDisplay": "Daerah Kalimantan",
     "member": [
       {
         "NO": 137,
@@ -1973,7 +1973,7 @@
   },
   {
     "majelis": "KEPULAUAN RIAU",
-    "majelisDisplay": "Kepulauan Riau",
+    "majelisDisplay": "Daerah Kepulauan Riau",
     "member": [
       {
         "NO": 149,
@@ -2056,7 +2056,7 @@
   },
   {
     "majelis": "PAPUA RAYA, MALUKU",
-    "majelisDisplay": "Papua Raya, Maluku",
+    "majelisDisplay": "Daerah Papua Raya, Maluku",
     "member": [
       {
         "NO": 156,

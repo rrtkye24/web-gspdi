@@ -75,7 +75,7 @@ function Majelis({ majelis, member, openModal }) {
       <h2>
         <AccordionButton padding={"15px"}>
           <Box flex="1" textAlign="left" style={{ fontWeight: "bold" }}>
-            Majelis Daerah {majelis}
+            Majelis {majelis}
           </Box>
           <AccordionIcon />
         </AccordionButton>
