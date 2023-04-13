@@ -1,4 +1,4 @@
-import { Box, Flex, Button, Image, Container, Stack, Heading, Text } from "@chakra-ui/react"
+import { Box, Flex, Button, Image, Container, Stack, Heading } from "@chakra-ui/react"
 import { client, sanityImageUrl } from "../../sanity"
 import { NextSeo } from "next-seo"
 import Link from "next/link"
