@@ -73,7 +73,6 @@ export async function getStaticProps() {
     }
   })
 
-  //Incremental Static Regeneration
   return {
     props: {
       recentPosts: parsedRecentPosts,
