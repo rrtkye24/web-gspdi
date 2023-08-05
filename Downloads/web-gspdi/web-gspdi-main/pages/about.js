@@ -1,4 +1,4 @@
-import { Box, Text, Stack, Heading, Container, Center, Link, VStack} from "@chakra-ui/react"
+import { Box, Text, Stack, Heading, Container, Center, Link, VStack } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
 
 // Local
@@ -39,48 +39,48 @@ export default function About() {
         backgroundImageUrl={'url("/img/g3.jpg")'}
         text="Tentang Kita"
       /> */}
-     <Container maxW={'5xl'}>
-      <Stack
-        textAlign={'center'}
-        align={'center'}
-        spacing={{ base: 8, md: 10 }}
-        py={{ base: 24, md: 28}}>
-        <Heading
-          fontWeight={600}
-          fontSize='4xl'
-          lineHeight={'110%'}>
-          Tentang {' '}
-          <Text as={'span'} color={'yellow.400'}>
-            Kami
+      <Container maxW={'5xl'}>
+        <Stack
+          textAlign={'center'}
+          align={'center'}
+          spacing={{ base: 8, md: 10 }}
+          py={{ base: 24, md: 28 }}>
+          <Heading
+            fontWeight={600}
+            fontSize='4xl'
+            lineHeight={'110%'}>
+            Tentang {' '}
+            <Text as={'span'} color={'yellow.400'}>
+              Kami
+            </Text>
+          </Heading>
+          <Text color={'gray.500'} maxW={'3xl'}>
+            Gereja Sidang Pantekosta Di Indonesia adalah gereja yang hadir di seluruh Indonesia. Menggunakan Strategi SMART(Specific, Measurable, Achivable, Realistik, Timely) melalui 4 bidang
+            pelayanan, yaitu Penatalayanan (Organisasi), Penggembalaan, Pendidikan dan Misi, dan Pelayanan Masyarakat.
           </Text>
-        </Heading>
-        <Text color={'gray.500'} maxW={'3xl'}>
-          Gereja Sidang Pantekosta Di Indonesia adalah gereja yang hadir di seluruh Indonesia. Menggunakan Strategi SMART(Specific, Measurable, Achivable, Realistik, Timely) melalui 4 bidang 
-          pelayanan, yaitu Penatalayanan (Organisasi), Penggembalaan, Pendidikan dan Misi, dan Pelayanan Masyarakat.
-        </Text>
-      </Stack>
-    </Container>
-      <PengakuanIman/>
-      <History/>
+        </Stack>
+      </Container>
+      <PengakuanIman />
+      <History />
       <Container
-        maxWidth='full' 
+        maxWidth='full'
         className="singing-bg"
         color={'white'}
         paddingTop={{ base: "80px", md: "120px" }}
         paddingBottom={"40px"}
       >
-        <OrganizationStructure/>
+        <OrganizationStructure />
       </Container>
       <Container py={'5em'}>
         <Center>
-        <VStack p={10}>
-        <Text as="b" fontSize={'2xl'}>Tata Gereja</Text>
-        <Link target="_blank" href="assets/tata-gereja.pdf">Lihat PDF</Link>
-        </VStack>
-        <VStack p={10}>
-        <Text as="b" fontSize={'2xl'}>Akta Notaris</Text>
-        <Link target="_blank" href="assets/akta-notaris.pdf">Lihat PDF</Link>
-        </VStack>
+          <VStack p={10}>
+            <Text as="b" fontSize={'2xl'}>Tata Gereja</Text>
+            <Link target="_blank" href="assets/tata-gereja.pdf">Lihat PDF</Link>
+          </VStack>
+          <VStack p={10}>
+            <Text as="b" fontSize={'2xl'}>Akta Notaris</Text>
+            <Link target="_blank" href="assets/akta-notaris.pdf">Lihat PDF</Link>
+          </VStack>
         </Center>
       </Container>
       <Footer />
